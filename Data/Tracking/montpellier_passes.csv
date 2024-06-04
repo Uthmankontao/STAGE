@@ -1,0 +1,912 @@
+datetime,team.name,period,player.name,pass.recipient.name,pass.length
+2023-08-13 00:00:00.474,Montpellier,1,Téji Savanier,Jordan Ferri,11.4337225
+2023-08-13 00:00:01.066,Le Havre,2,Nabil Alioui,Oussama Targhalline,11.815245
+2023-08-13 00:00:02.175,Montpellier,1,Jordan Ferri,Falaye Sacko,22.37588
+2023-08-13 00:00:02.815,Le Havre,2,Oussama Targhalline,Issa Soumaré,52.5
+2023-08-13 00:00:05.783,Montpellier,1,Falaye Sacko,Christopher Jullien,15.508062
+2023-08-13 00:00:07.487,Montpellier,2,Falaye Sacko,Moussa Al Tamari,19.615555
+2023-08-13 00:00:07.982,Montpellier,1,Christopher Jullien,Joris Chotard,22.297085
+2023-08-13 00:00:08.900,Le Havre,2,Daler Kuzyaev,Gautier Lloris,9.449339
+2023-08-13 00:00:10.370,Montpellier,1,Joris Chotard,Issiaga Sylla,29.767431
+2023-08-13 00:00:10.550,Montpellier,2,Téji Savanier,Moussa Al Tamari,15.445711
+2023-08-13 00:00:13.286,Montpellier,1,Issiaga Sylla,Wahbi Khazri,13.629746
+2023-08-13 00:00:15.722,Montpellier,2,Moussa Al Tamari,Akor Jerome Adams,13.086252
+2023-08-13 00:00:15.789,Montpellier,1,Wahbi Khazri,Boubakar Kouyate,23.207111
+2023-08-13 00:00:21.071,Montpellier,1,Boubakar Kouyate,Christopher Jullien,26.2
+2023-08-13 00:00:24.572,Montpellier,1,Christopher Jullien,Boubakar Kouyate,22.073513
+2023-08-13 00:00:27.026,Montpellier,1,Boubakar Kouyate,Issiaga Sylla,25.41358
+2023-08-13 00:00:30.511,Montpellier,1,Issiaga Sylla,Wahbi Khazri,16.070158
+2023-08-13 00:00:33.923,Montpellier,1,Wahbi Khazri,Moussa Al Tamari,61.636757
+2023-08-13 00:00:39.606,Le Havre,2,Arouna Sangante,Issa Soumaré,66.75867
+2023-08-13 00:00:42.638,Montpellier,2,Christopher Jullien,Falaye Sacko,12.442669
+2023-08-13 00:00:43.967,Montpellier,2,Falaye Sacko,Christopher Jullien,11.901681
+2023-08-13 00:00:46.139,Montpellier,2,Christopher Jullien,Boubakar Kouyate,15.536408
+2023-08-13 00:00:48.808,Montpellier,2,Boubakar Kouyate,Issiaga Sylla,21.664026
+2023-08-13 00:00:53.849,Le Havre,1,Josue Casimir,Issa Soumaré,27.576982
+2023-08-13 00:00:55.450,Montpellier,2,Issiaga Sylla,Joris Chotard,12.944883
+2023-08-13 00:00:55.599,Montpellier,1,Christopher Jullien,Boubakar Kouyate,24.301645
+2023-08-13 00:00:56.470,Montpellier,2,Joris Chotard,Boubakar Kouyate,12.998846
+2023-08-13 00:00:58.473,Montpellier,1,Boubakar Kouyate,Joris Chotard,5.72014
+2023-08-13 00:01:00.125,Montpellier,2,Boubakar Kouyate,Christopher Jullien,22.562136
+2023-08-13 00:01:00.515,Montpellier,1,Joris Chotard,Falaye Sacko,13.85388
+2023-08-13 00:01:02.081,Montpellier,1,Falaye Sacko,Jordan Ferri,7.7162166
+2023-08-13 00:01:02.264,Montpellier,2,Christopher Jullien,Jordan Ferri,25.312447
+2023-08-13 00:01:02.842,Montpellier,1,Jordan Ferri,Moussa Al Tamari,19.886175
+2023-08-13 00:01:06.310,Montpellier,2,Jordan Ferri,Falaye Sacko,16.86683
+2023-08-13 00:01:08.468,Montpellier,2,Falaye Sacko,Jordan Ferri,11.371895
+2023-08-13 00:01:10.548,Montpellier,2,Jordan Ferri,Christopher Jullien,14.698639
+2023-08-13 00:01:12.751,Montpellier,2,Christopher Jullien,Boubakar Kouyate,30.974344
+2023-08-13 00:01:13.220,Montpellier,1,Christopher Jullien,Boubakar Kouyate,23.394016
+2023-08-13 00:01:17.723,Montpellier,1,Boubakar Kouyate,Issiaga Sylla,38.17342
+2023-08-13 00:01:18.834,Montpellier,2,Boubakar Kouyate,Christopher Jullien,19.56042
+2023-08-13 00:01:23.051,Montpellier,2,Christopher Jullien,Jordan Ferri,16.39817
+2023-08-13 00:01:25.638,Montpellier,2,Jordan Ferri,Falaye Sacko,11.673046
+2023-08-13 00:01:26.602,Montpellier,1,Issiaga Sylla,Téji Savanier,39.163757
+2023-08-13 00:01:27.726,Montpellier,2,Falaye Sacko,Christopher Jullien,18.729656
+2023-08-13 00:01:28.605,Montpellier,1,Téji Savanier,Moussa Al Tamari,3.6891735
+2023-08-13 00:01:29.993,Montpellier,2,Christopher Jullien,Joris Chotard,14.043148
+2023-08-13 00:01:30.900,Le Havre,1,Oussama Targhalline,Josue Casimir,10.801851
+2023-08-13 00:01:32.940,Montpellier,2,Joris Chotard,Christopher Jullien,11.272977
+2023-08-13 00:01:35.860,Montpellier,2,Christopher Jullien,Boubakar Kouyate,27.561024
+2023-08-13 00:01:37.057,Le Havre,1,Josue Casimir,Issa Soumaré,48.20664
+2023-08-13 00:01:41.022,Montpellier,2,Boubakar Kouyate,Jordan Ferri,12.277215
+2023-08-13 00:01:42.798,Montpellier,1,Boubakar Kouyate,Falaye Sacko,13.8
+2023-08-13 00:01:44.595,Montpellier,2,Jordan Ferri,Falaye Sacko,30.708467
+2023-08-13 00:01:45.097,Montpellier,1,Falaye Sacko,Téji Savanier,13.461798
+2023-08-13 00:01:48.878,Montpellier,2,Falaye Sacko,Téji Savanier,19.746645
+2023-08-13 00:01:51.561,Montpellier,2,Téji Savanier,Falaye Sacko,8.765842
+2023-08-13 00:01:54.523,Montpellier,1,Téji Savanier,Jordan Ferri,26.699251
+2023-08-13 00:01:58.694,Montpellier,2,Téji Savanier,Moussa Al Tamari,17.968863
+2023-08-13 00:01:59.326,Montpellier,1,Jordan Ferri,Wahbi Khazri,20.006248
+2023-08-13 00:01:59.953,Montpellier,2,Moussa Al Tamari,Téji Savanier,8.1154175
+2023-08-13 00:02:02.875,Montpellier,2,Téji Savanier,Joris Chotard,7.8025637
+2023-08-13 00:02:04.560,Montpellier,1,Wahbi Khazri,Issiaga Sylla,5.5
+2023-08-13 00:02:04.736,Montpellier,2,Joris Chotard,Wahbi Khazri,37.119404
+2023-08-13 00:02:07.084,Montpellier,1,Issiaga Sylla,Moussa Al Tamari,43.931084
+2023-08-13 00:02:28.979,Le Havre,2,Yoann Salmier,Issa Soumaré,60.04207
+2023-08-13 00:02:53.251,Le Havre,1,Oussama Targhalline,Daler Kuzyaev,12.727922
+2023-08-13 00:02:54.383,Le Havre,1,Daler Kuzyaev,Issa Soumaré,2.745906
+2023-08-13 00:03:13.837,Le Havre,2,Nabil Alioui,Loïc Négo,22.26432
+2023-08-13 00:03:14.919,Montpellier,2,Joris Chotard,Téji Savanier,9.075792
+2023-08-13 00:03:15.030,Le Havre,1,Loïc Négo,Nabil Alioui,43.625793
+2023-08-13 00:03:16.112,Montpellier,2,Téji Savanier,Akor Jerome Adams,12.179491
+2023-08-13 00:03:17.413,Montpellier,1,Boubakar Kouyate,Akor Jerome Adams,74.986465
+2023-08-13 00:03:28.382,Montpellier,2,Akor Jerome Adams,Issiaga Sylla,4.428318
+2023-08-13 00:03:33.196,Montpellier,2,Issiaga Sylla,Jordan Ferri,9.953894
+2023-08-13 00:03:35.448,Montpellier,2,Jordan Ferri,Issiaga Sylla,8.658522
+2023-08-13 00:03:37.834,Montpellier,2,Issiaga Sylla,Jordan Ferri,14.168275
+2023-08-13 00:03:39.034,Montpellier,2,Jordan Ferri,Akor Jerome Adams,16.237303
+2023-08-13 00:03:42.847,Montpellier,2,Akor Jerome Adams,Joris Chotard,17.640862
+2023-08-13 00:03:47.106,Montpellier,2,Joris Chotard,Christopher Jullien,13.333041
+2023-08-13 00:03:49.150,Montpellier,2,Christopher Jullien,Boubakar Kouyate,13.764084
+2023-08-13 00:03:51.085,Montpellier,2,Boubakar Kouyate,Issiaga Sylla,19.531769
+2023-08-13 00:03:52.681,Montpellier,2,Issiaga Sylla,Jordan Ferri,13.911865
+2023-08-13 00:03:54.827,Montpellier,2,Jordan Ferri,Issiaga Sylla,18.435835
+2023-08-13 00:03:55.912,Le Havre,1,Arthur Desmas,Issa Soumaré,57.915195
+2023-08-13 00:04:00.798,Le Havre,2,Yoann Salmier,Nabil Alioui,26.064728
+2023-08-13 00:04:33.967,Le Havre,2,Loïc Négo,Issa Soumaré,24.656237
+2023-08-13 00:04:35.644,Montpellier,2,Issiaga Sylla,Téji Savanier,12.054045
+2023-08-13 00:04:37.639,Montpellier,2,Téji Savanier,Joris Chotard,11.8
+2023-08-13 00:04:38.378,Montpellier,2,Joris Chotard,Wahbi Khazri,23.05862
+2023-08-13 00:04:56.365,Le Havre,2,Loïc Négo,Nabil Alioui,20.282997
+2023-08-13 00:04:57.232,Le Havre,1,Nabil Alioui,Yoann Salmier,32.736065
+2023-08-13 00:04:57.579,Le Havre,2,Nabil Alioui,Issa Soumaré,22.596682
+2023-08-13 00:05:03.284,Montpellier,2,Issiaga Sylla,Christopher Jullien,24.570307
+2023-08-13 00:05:09.444,Montpellier,2,Christopher Jullien,Boubakar Kouyate,20.06315
+2023-08-13 00:05:12.786,Montpellier,2,Boubakar Kouyate,Akor Jerome Adams,42.40955
+2023-08-13 00:05:33.189,Le Havre,2,Loïc Négo,Rassoul N'Diaye,24.884735
+2023-08-13 00:05:35.872,Le Havre,2,Rassoul N'Diaye,Gautier Lloris,28.54908
+2023-08-13 00:05:38.113,Le Havre,2,Gautier Lloris,Josue Casimir,28.166115
+2023-08-13 00:05:45.442,Le Havre,2,Josue Casimir,Nabil Alioui,27.557213
+2023-08-13 00:05:46.576,Montpellier,2,Christopher Jullien,Téji Savanier,17.801123
+2023-08-13 00:05:50.457,Montpellier,2,Téji Savanier,Akor Jerome Adams,56.33977
+2023-08-13 00:05:53.308,Le Havre,2,Arouna Sangante,Gautier Lloris,12.238464
+2023-08-13 00:05:57.776,Montpellier,2,Moussa Al Tamari,Akor Jerome Adams,15.074814
+2023-08-13 00:05:58.522,Montpellier,2,Akor Jerome Adams,Moussa Al Tamari,7.180529
+2023-08-13 00:06:31.349,Le Havre,2,Arthur Desmas,Issa Soumaré,83.02174
+2023-08-13 00:06:36.962,Montpellier,2,Christopher Jullien,Benjamin Lecomte,14.400695
+2023-08-13 00:06:39.163,Montpellier,2,Benjamin Lecomte,Christopher Jullien,14.120907
+2023-08-13 00:06:40.363,Montpellier,2,Christopher Jullien,Boubakar Kouyate,21.51883
+2023-08-13 00:06:43.034,Montpellier,2,Boubakar Kouyate,Jordan Ferri,16.577394
+2023-08-13 00:06:49.968,Montpellier,2,Jordan Ferri,Issiaga Sylla,11.356936
+2023-08-13 00:06:50.455,Le Havre,2,Rassoul N'Diaye,Loïc Négo,13.4
+2023-08-13 00:06:53.215,Le Havre,2,Loïc Négo,Rassoul N'Diaye,8.633076
+2023-08-13 00:06:55.825,Le Havre,2,Rassoul N'Diaye,Issa Soumaré,43.156113
+2023-08-13 00:06:58.060,Montpellier,2,Boubakar Kouyate,Jordan Ferri,5.333854
+2023-08-13 00:07:05.627,Montpellier,1,Téji Savanier,Jordan Ferri,6.074537
+2023-08-13 00:07:06.235,Montpellier,2,Issiaga Sylla,Joris Chotard,12.32396
+2023-08-13 00:07:08.080,Montpellier,1,Jordan Ferri,Issiaga Sylla,35.806843
+2023-08-13 00:07:09.063,Montpellier,2,Joris Chotard,Christopher Jullien,30.050957
+2023-08-13 00:07:11.111,Montpellier,2,Christopher Jullien,Jordan Ferri,10.427847
+2023-08-13 00:07:11.115,Montpellier,1,Issiaga Sylla,Joris Chotard,13.313527
+2023-08-13 00:07:13.062,Montpellier,2,Jordan Ferri,Issiaga Sylla,21.902054
+2023-08-13 00:07:13.912,Montpellier,1,Joris Chotard,Falaye Sacko,42.440666
+2023-08-13 00:07:14.662,Montpellier,2,Issiaga Sylla,Boubakar Kouyate,17.83704
+2023-08-13 00:07:18.301,Montpellier,1,Falaye Sacko,Christopher Jullien,12.022063
+2023-08-13 00:07:20.400,Montpellier,1,Christopher Jullien,Boubakar Kouyate,30.192053
+2023-08-13 00:07:20.815,Montpellier,2,Boubakar Kouyate,Issiaga Sylla,21.557365
+2023-08-13 00:07:23.291,Montpellier,1,Boubakar Kouyate,Téji Savanier,32.747063
+2023-08-13 00:07:23.451,Montpellier,2,Issiaga Sylla,Joris Chotard,12.298374
+2023-08-13 00:07:24.751,Montpellier,1,Téji Savanier,Wahbi Khazri,17.24094
+2023-08-13 00:07:25.459,Le Havre,1,Loïc Négo,Rassoul N'Diaye,11.244999
+2023-08-13 00:07:26.039,Montpellier,2,Joris Chotard,Issiaga Sylla,11.175867
+2023-08-13 00:07:27.589,Montpellier,2,Issiaga Sylla,Joris Chotard,8.670063
+2023-08-13 00:07:29.222,Montpellier,2,Joris Chotard,Boubakar Kouyate,20.84826
+2023-08-13 00:07:31.323,Montpellier,2,Boubakar Kouyate,Christopher Jullien,26.239283
+2023-08-13 00:07:33.947,Montpellier,2,Christopher Jullien,Jordan Ferri,24.981594
+2023-08-13 00:07:36.610,Montpellier,2,Jordan Ferri,Moussa Al Tamari,21.261467
+2023-08-13 00:07:39.347,Montpellier,2,Moussa Al Tamari,Falaye Sacko,4.6389656
+2023-08-13 00:07:53.921,Le Havre,1,Yoann Salmier,Issa Soumaré,23.88828
+2023-08-13 00:07:55.763,Montpellier,1,Boubakar Kouyate,Téji Savanier,12.459535
+2023-08-13 00:07:56.850,Montpellier,1,Téji Savanier,Akor Jerome Adams,11.9105
+2023-08-13 00:07:59.979,Le Havre,1,Daler Kuzyaev,Rassoul N'Diaye,13.74409
+2023-08-13 00:08:33.293,Montpellier,2,Téji Savanier,Wahbi Khazri,33.095318
+2023-08-13 00:08:36.137,Le Havre,1,Arouna Sangante,Issa Soumaré,41.85272
+2023-08-13 00:08:38.385,Le Havre,1,Issa Soumaré,Rassoul N'Diaye,9.364828
+2023-08-13 00:08:49.317,Le Havre,2,Arthur Desmas,Gautier Lloris,23.132013
+2023-08-13 00:08:51.573,Le Havre,2,Gautier Lloris,Josue Casimir,11.676472
+2023-08-13 00:08:53.269,Le Havre,2,Josue Casimir,Gautier Lloris,8.79659
+2023-08-13 00:08:53.918,Le Havre,2,Gautier Lloris,Daler Kuzyaev,15.454773
+2023-08-13 00:08:55.251,Le Havre,1,Loïc Négo,Issa Soumaré,8.500588
+2023-08-13 00:08:57.868,Montpellier,2,Falaye Sacko,Moussa Al Tamari,10.283968
+2023-08-13 00:08:58.506,Montpellier,1,Téji Savanier,Moussa Al Tamari,35.424427
+2023-08-13 00:08:59.369,Montpellier,2,Moussa Al Tamari,Falaye Sacko,9.688137
+2023-08-13 00:09:02.200,Le Havre,1,Gautier Lloris,Daler Kuzyaev,12.681088
+2023-08-13 00:09:02.939,Montpellier,2,Falaye Sacko,Téji Savanier,7.7369246
+2023-08-13 00:09:04.428,Montpellier,2,Téji Savanier,Moussa Al Tamari,25.601954
+2023-08-13 00:09:06.376,Montpellier,1,Téji Savanier,Moussa Al Tamari,45.111862
+2023-08-13 00:09:09.313,Le Havre,2,Gautier Lloris,Arouna Sangante,7.7491937
+2023-08-13 00:09:10.432,Le Havre,1,Arthur Desmas,Josue Casimir,16.717056
+2023-08-13 00:09:14.581,Le Havre,2,Arouna Sangante,Josue Casimir,23.380547
+2023-08-13 00:09:14.724,Le Havre,1,Josue Casimir,Nabil Alioui,11.472576
+2023-08-13 00:09:27.733,Le Havre,1,Josue Casimir,Issa Soumaré,29.140007
+2023-08-13 00:09:30.439,Montpellier,1,Joris Chotard,Jordan Ferri,16.804762
+2023-08-13 00:09:33.520,Montpellier,1,Jordan Ferri,Issiaga Sylla,29.14464
+2023-08-13 00:09:37.410,Montpellier,1,Issiaga Sylla,Christopher Jullien,41.22293
+2023-08-13 00:09:40.625,Montpellier,1,Christopher Jullien,Falaye Sacko,30.048628
+2023-08-13 00:09:45.440,Montpellier,1,Falaye Sacko,Christopher Jullien,19.882908
+2023-08-13 00:09:47.440,Montpellier,1,Christopher Jullien,Boubakar Kouyate,31.058655
+2023-08-13 00:09:49.689,Montpellier,1,Boubakar Kouyate,Jordan Ferri,10.0657835
+2023-08-13 00:09:51.326,Montpellier,1,Jordan Ferri,Issiaga Sylla,20.011248
+2023-08-13 00:09:53.490,Montpellier,1,Issiaga Sylla,Wahbi Khazri,23.801891
+2023-08-13 00:10:36.705,Montpellier,2,Téji Savanier,Jordan Ferri,34.81738
+2023-08-13 00:10:43.043,Le Havre,2,Loïc Négo,Rassoul N'Diaye,45.12494
+2023-08-13 00:10:44.893,Le Havre,1,Yoann Salmier,Issa Soumaré,43.95384
+2023-08-13 00:10:47.282,Le Havre,1,Issa Soumaré,Nabil Alioui,18.56071
+2023-08-13 00:10:48.631,Le Havre,1,Nabil Alioui,Issa Soumaré,7.4431176
+2023-08-13 00:10:51.257,Montpellier,1,Boubakar Kouyate,Falaye Sacko,26.654268
+2023-08-13 00:10:52.879,Le Havre,2,Rassoul N'Diaye,Loïc Négo,29.443504
+2023-08-13 00:10:54.774,Montpellier,1,Falaye Sacko,Boubakar Kouyate,17.613914
+2023-08-13 00:10:57.297,Montpellier,1,Boubakar Kouyate,Christopher Jullien,14.516887
+2023-08-13 00:10:58.750,Montpellier,1,Christopher Jullien,Issiaga Sylla,32.423756
+2023-08-13 00:11:03.134,Montpellier,1,Issiaga Sylla,Jordan Ferri,14.650939
+2023-08-13 00:11:04.806,Montpellier,1,Jordan Ferri,Téji Savanier,6.71193
+2023-08-13 00:11:10.867,Montpellier,1,Téji Savanier,Christopher Jullien,26.072592
+2023-08-13 00:11:26.420,Montpellier,2,Benjamin Lecomte,Téji Savanier,42.379475
+2023-08-13 00:11:30.583,Montpellier,2,Téji Savanier,Boubakar Kouyate,12.252755
+2023-08-13 00:11:33.828,Montpellier,2,Boubakar Kouyate,Christopher Jullien,22.968891
+2023-08-13 00:11:36.222,Montpellier,2,Christopher Jullien,Falaye Sacko,23.753105
+2023-08-13 00:11:41.564,Montpellier,2,Falaye Sacko,Jordan Ferri,6.0
+2023-08-13 00:11:44.031,Montpellier,2,Jordan Ferri,Téji Savanier,9.1836815
+2023-08-13 00:11:45.071,Montpellier,2,Téji Savanier,Jordan Ferri,9.48736
+2023-08-13 00:11:46.199,Montpellier,2,Jordan Ferri,Christopher Jullien,10.5019045
+2023-08-13 00:11:47.799,Montpellier,2,Christopher Jullien,Boubakar Kouyate,38.508312
+2023-08-13 00:11:51.210,Montpellier,2,Boubakar Kouyate,Joris Chotard,18.701872
+2023-08-13 00:11:53.617,Montpellier,2,Joris Chotard,Boubakar Kouyate,10.667708
+2023-08-13 00:11:55.746,Montpellier,2,Boubakar Kouyate,Akor Jerome Adams,25.316002
+2023-08-13 00:11:58.249,Montpellier,2,Akor Jerome Adams,Issiaga Sylla,15.786703
+2023-08-13 00:12:00.485,Montpellier,2,Issiaga Sylla,Wahbi Khazri,28.917124
+2023-08-13 00:12:31.195,Montpellier,1,Christopher Jullien,Jordan Ferri,17.551353
+2023-08-13 00:12:36.514,Montpellier,1,Jordan Ferri,Joris Chotard,17.083618
+2023-08-13 00:12:38.400,Montpellier,2,Boubakar Kouyate,Téji Savanier,19.79596
+2023-08-13 00:12:39.812,Montpellier,1,Joris Chotard,Boubakar Kouyate,19.869827
+2023-08-13 00:12:42.541,Montpellier,1,Boubakar Kouyate,Issiaga Sylla,19.620653
+2023-08-13 00:12:44.920,Montpellier,2,Téji Savanier,Akor Jerome Adams,25.355078
+2023-08-13 00:12:45.746,Montpellier,1,Issiaga Sylla,Wahbi Khazri,9.0448885
+2023-08-13 00:12:46.992,Montpellier,1,Wahbi Khazri,Boubakar Kouyate,7.7103825
+2023-08-13 00:12:48.933,Le Havre,1,Loïc Négo,Rassoul N'Diaye,10.696261
+2023-08-13 00:12:50.635,Le Havre,1,Rassoul N'Diaye,Loïc Négo,5.3009434
+2023-08-13 00:13:14.103,Le Havre,1,Yoann Salmier,Issa Soumaré,18.704277
+2023-08-13 00:13:15.261,Le Havre,1,Issa Soumaré,Rassoul N'Diaye,6.7178864
+2023-08-13 00:13:17.967,Montpellier,1,Boubakar Kouyate,Akor Jerome Adams,24.667793
+2023-08-13 00:13:22.821,Montpellier,1,Téji Savanier,Wahbi Khazri,9.2800865
+2023-08-13 00:13:27.513,Le Havre,1,Loïc Négo,Oussama Targhalline,8.228001
+2023-08-13 00:13:28.607,Le Havre,1,Oussama Targhalline,Rassoul N'Diaye,14.741099
+2023-08-13 00:13:30.867,Le Havre,1,Rassoul N'Diaye,Issa Soumaré,16.858232
+2023-08-13 00:13:31.998,Montpellier,1,Boubakar Kouyate,Joris Chotard,6.963476
+2023-08-13 00:13:32.884,Montpellier,1,Joris Chotard,Téji Savanier,7.91012
+2023-08-13 00:13:34.157,Le Havre,1,Rassoul N'Diaye,Oussama Targhalline,5.59017
+2023-08-13 00:13:35.131,Le Havre,1,Oussama Targhalline,Rassoul N'Diaye,10.396634
+2023-08-13 00:13:36.732,Le Havre,1,Rassoul N'Diaye,Arthur Desmas,27.518175
+2023-08-13 00:13:41.181,Le Havre,1,Arthur Desmas,Gautier Lloris,20.13579
+2023-08-13 00:13:46.680,Le Havre,1,Gautier Lloris,Oussama Targhalline,23.210558
+2023-08-13 00:13:48.994,Le Havre,1,Daler Kuzyaev,Josue Casimir,9.2439165
+2023-08-13 00:13:51.902,Montpellier,1,Christopher Jullien,Téji Savanier,22.020445
+2023-08-13 00:13:52.193,Le Havre,2,Nabil Alioui,Arouna Sangante,20.808653
+2023-08-13 00:13:55.314,Le Havre,2,Arouna Sangante,Issa Soumaré,43.792236
+2023-08-13 00:13:57.494,Le Havre,2,Issa Soumaré,Rassoul N'Diaye,13.7411785
+2023-08-13 00:14:01.684,Le Havre,2,Rassoul N'Diaye,Josue Casimir,7.668768
+2023-08-13 00:14:03.057,Montpellier,2,Jordan Ferri,Falaye Sacko,4.5254836
+2023-08-13 00:14:07.448,Montpellier,2,Falaye Sacko,Moussa Al Tamari,35.553482
+2023-08-13 00:14:10.102,Montpellier,2,Jordan Ferri,Wahbi Khazri,9.617692
+2023-08-13 00:14:17.354,Le Havre,2,Josue Casimir,Issa Soumaré,18.774717
+2023-08-13 00:14:20.021,Montpellier,2,Falaye Sacko,Téji Savanier,32.467983
+2023-08-13 00:14:23.047,Le Havre,2,Oussama Targhalline,Daler Kuzyaev,9.732934
+2023-08-13 00:14:24.220,Le Havre,2,Daler Kuzyaev,Nabil Alioui,15.9380045
+2023-08-13 00:14:25.273,Montpellier,2,Boubakar Kouyate,Akor Jerome Adams,49.221947
+2023-08-13 00:14:38.594,Montpellier,1,Jordan Ferri,Wahbi Khazri,6.8883963
+2023-08-13 00:14:39.951,Le Havre,1,Loïc Négo,Issa Soumaré,22.436132
+2023-08-13 00:14:46.850,Le Havre,1,Issa Soumaré,Nabil Alioui,24.055977
+2023-08-13 00:14:54.135,Montpellier,1,Issiaga Sylla,Téji Savanier,7.8
+2023-08-13 00:14:55.529,Le Havre,1,Loïc Négo,Oussama Targhalline,10.312129
+2023-08-13 00:14:59.021,Le Havre,1,Oussama Targhalline,Rassoul N'Diaye,19.070396
+2023-08-13 00:15:01.862,Le Havre,1,Rassoul N'Diaye,Josue Casimir,31.846035
+2023-08-13 00:15:20.016,Montpellier,1,Falaye Sacko,Téji Savanier,15.950548
+2023-08-13 00:15:21.144,Montpellier,1,Téji Savanier,Falaye Sacko,5.6648035
+2023-08-13 00:15:22.067,Le Havre,1,Josue Casimir,Nabil Alioui,9.420191
+2023-08-13 00:15:23.123,Le Havre,1,Nabil Alioui,Daler Kuzyaev,5.841233
+2023-08-13 00:15:26.304,Le Havre,1,Daler Kuzyaev,Nabil Alioui,5.0537114
+2023-08-13 00:15:27.344,Le Havre,1,Nabil Alioui,Josue Casimir,14.989663
+2023-08-13 00:15:29.159,Le Havre,1,Josue Casimir,Oussama Targhalline,13.106106
+2023-08-13 00:16:00.266,Le Havre,2,Andy Élysée Logbo,Arouna Sangante,19.44865
+2023-08-13 00:16:00.872,Montpellier,1,Christopher Jullien,Benjamin Lecomte,9.4541
+2023-08-13 00:16:02.228,Le Havre,2,Arouna Sangante,Yoann Salmier,12.169634
+2023-08-13 00:16:02.931,Montpellier,1,Benjamin Lecomte,Téji Savanier,42.54938
+2023-08-13 00:16:04.090,Le Havre,2,Yoann Salmier,Daler Kuzyaev,17.37383
+2023-08-13 00:16:05.169,Le Havre,1,Oussama Targhalline,Josue Casimir,21.44621
+2023-08-13 00:16:06.388,Le Havre,2,Daler Kuzyaev,Loïc Négo,11.416217
+2023-08-13 00:16:07.037,Le Havre,1,Josue Casimir,Issa Soumaré,26.532433
+2023-08-13 00:16:07.773,Le Havre,2,Loïc Négo,Yoann Salmier,16.902662
+2023-08-13 00:16:08.949,Le Havre,1,Issa Soumaré,Nabil Alioui,28.927668
+2023-08-13 00:16:10.173,Le Havre,2,Yoann Salmier,Arouna Sangante,27.83523
+2023-08-13 00:16:14.191,Le Havre,2,Arouna Sangante,Josue Casimir,35.010426
+2023-08-13 00:16:14.825,Le Havre,1,Nabil Alioui,Issa Soumaré,40.823647
+2023-08-13 00:16:17.322,Le Havre,2,Rassoul N'Diaye,Josue Casimir,19.71218
+2023-08-13 00:16:24.784,Montpellier,1,Benjamin Lecomte,Christopher Jullien,12.712199
+2023-08-13 00:16:25.505,Montpellier,2,Joris Chotard,Téji Savanier,29.213867
+2023-08-13 00:16:26.484,Montpellier,2,Téji Savanier,Moussa Al Tamari,10.376898
+2023-08-13 00:16:27.364,Montpellier,1,Christopher Jullien,Falaye Sacko,27.285343
+2023-08-13 00:16:31.558,Montpellier,1,Falaye Sacko,Christopher Jullien,27.347029
+2023-08-13 00:16:33.062,Montpellier,2,Moussa Al Tamari,Wahbi Khazri,38.996666
+2023-08-13 00:16:33.777,Montpellier,1,Christopher Jullien,Benjamin Lecomte,16.73589
+2023-08-13 00:16:36.877,Montpellier,1,Benjamin Lecomte,Issiaga Sylla,33.92359
+2023-08-13 00:16:38.958,Le Havre,2,Daler Kuzyaev,Oussama Targhalline,13.484806
+2023-08-13 00:16:41.388,Montpellier,1,Issiaga Sylla,Téji Savanier,45.429726
+2023-08-13 00:16:44.058,Le Havre,1,Oussama Targhalline,Rassoul N'Diaye,13.630847
+2023-08-13 00:16:45.751,Le Havre,2,Oussama Targhalline,Antoine Joujou,11.315918
+2023-08-13 00:16:47.936,Le Havre,2,Antoine Joujou,Loïc Négo,15.250574
+2023-08-13 00:16:48.579,Le Havre,1,Rassoul N'Diaye,Loïc Négo,12.835108
+2023-08-13 00:16:49.900,Le Havre,2,Loïc Négo,Daler Kuzyaev,11.45513
+2023-08-13 00:16:52.655,Le Havre,1,Loïc Négo,Yoann Salmier,13.024976
+2023-08-13 00:16:55.162,Le Havre,2,Daler Kuzyaev,Oussama Targhalline,14.450605
+2023-08-13 00:16:56.883,Le Havre,1,Yoann Salmier,Arouna Sangante,17.912006
+2023-08-13 00:16:57.875,Le Havre,2,Oussama Targhalline,Andy Élysée Logbo,20.362957
+2023-08-13 00:16:59.825,Le Havre,1,Arouna Sangante,Gautier Lloris,24.69757
+2023-08-13 00:17:06.965,Le Havre,1,Gautier Lloris,Arouna Sangante,26.518862
+2023-08-13 00:17:10.710,Le Havre,1,Arouna Sangante,Loïc Négo,47.680603
+2023-08-13 00:17:16.741,Montpellier,1,Issiaga Sylla,Benjamin Lecomte,26.295437
+2023-08-13 00:17:20.521,Montpellier,1,Benjamin Lecomte,Jordan Ferri,52.291492
+2023-08-13 00:17:27.417,Le Havre,1,Daler Kuzyaev,Josue Casimir,16.03122
+2023-08-13 00:17:29.412,Le Havre,1,Josue Casimir,Oussama Targhalline,14.599315
+2023-08-13 00:17:30.738,Le Havre,1,Oussama Targhalline,Daler Kuzyaev,8.633076
+2023-08-13 00:17:31.560,Le Havre,1,Daler Kuzyaev,Oussama Targhalline,5.507268
+2023-08-13 00:17:32.021,Montpellier,2,Wahbi Khazri,Falaye Sacko,50.90619
+2023-08-13 00:17:35.040,Le Havre,1,Oussama Targhalline,Rassoul N'Diaye,8.348653
+2023-08-13 00:17:36.701,Montpellier,2,Falaye Sacko,Christopher Jullien,13.2924795
+2023-08-13 00:17:37.824,Le Havre,1,Rassoul N'Diaye,Yoann Salmier,15.065191
+2023-08-13 00:17:39.455,Montpellier,2,Christopher Jullien,Boubakar Kouyate,19.402319
+2023-08-13 00:17:40.358,Le Havre,1,Yoann Salmier,Issa Soumaré,69.61049
+2023-08-13 00:17:42.102,Montpellier,2,Boubakar Kouyate,Benjamin Lecomte,14.280056
+2023-08-13 00:17:45.025,Montpellier,2,Benjamin Lecomte,Akor Jerome Adams,54.925858
+2023-08-13 00:17:46.335,Montpellier,1,Benjamin Lecomte,Téji Savanier,39.666737
+2023-08-13 00:17:48.524,Montpellier,1,Téji Savanier,Falaye Sacko,26.112257
+2023-08-13 00:17:49.214,Montpellier,2,Akor Jerome Adams,Moussa Al Tamari,16.220049
+2023-08-13 00:17:53.567,Montpellier,1,Falaye Sacko,Téji Savanier,23.855608
+2023-08-13 00:17:53.786,Montpellier,2,Moussa Al Tamari,Christopher Jullien,32.987423
+2023-08-13 00:17:54.998,Montpellier,1,Téji Savanier,Moussa Al Tamari,53.364502
+2023-08-13 00:17:59.114,Montpellier,2,Christopher Jullien,Falaye Sacko,9.042677
+2023-08-13 00:18:01.382,Montpellier,2,Falaye Sacko,Téji Savanier,18.483776
+2023-08-13 00:18:02.711,Le Havre,1,Gautier Lloris,Josue Casimir,8.028076
+2023-08-13 00:18:08.412,Montpellier,2,Téji Savanier,Christopher Jullien,13.813037
+2023-08-13 00:18:10.852,Montpellier,2,Christopher Jullien,Boubakar Kouyate,37.703316
+2023-08-13 00:18:14.452,Montpellier,2,Boubakar Kouyate,Issiaga Sylla,18.518099
+2023-08-13 00:18:19.281,Montpellier,2,Issiaga Sylla,Boubakar Kouyate,12.090492
+2023-08-13 00:18:22.447,Montpellier,2,Boubakar Kouyate,Wahbi Khazri,30.459316
+2023-08-13 00:18:25.191,Le Havre,2,Loïc Négo,Oussama Targhalline,9.734988
+2023-08-13 00:18:29.930,Le Havre,2,Oussama Targhalline,Daler Kuzyaev,16.916264
+2023-08-13 00:18:31.732,Le Havre,2,Daler Kuzyaev,Oussama Targhalline,14.8030405
+2023-08-13 00:18:34.604,Le Havre,2,Oussama Targhalline,Andy Élysée Logbo,16.685923
+2023-08-13 00:19:04.788,Le Havre,2,Arouna Sangante,Rassoul N'Diaye,29.920729
+2023-08-13 00:19:07.547,Le Havre,2,Rassoul N'Diaye,Andy Élysée Logbo,9.689685
+2023-08-13 00:19:07.731,Le Havre,1,Arouna Sangante,Gautier Lloris,9.615092
+2023-08-13 00:19:08.850,Montpellier,2,Joris Chotard,Jordan Ferri,19.990498
+2023-08-13 00:19:09.034,Le Havre,1,Gautier Lloris,Arouna Sangante,9.062009
+2023-08-13 00:19:10.926,Montpellier,2,Jordan Ferri,Moussa Al Tamari,29.26568
+2023-08-13 00:19:10.948,Le Havre,1,Arouna Sangante,Yoann Salmier,22.40558
+2023-08-13 00:19:13.612,Le Havre,2,Gautier Lloris,Daler Kuzyaev,17.066048
+2023-08-13 00:19:15.695,Le Havre,1,Yoann Salmier,Arouna Sangante,16.484236
+2023-08-13 00:19:15.941,Le Havre,2,Daler Kuzyaev,Oussama Targhalline,15.646086
+2023-08-13 00:19:20.372,Le Havre,2,Oussama Targhalline,Loïc Négo,20.154652
+2023-08-13 00:19:20.466,Le Havre,1,Arouna Sangante,Loïc Négo,43.35032
+2023-08-13 00:19:22.662,Le Havre,2,Loïc Négo,Oussama Targhalline,9.415413
+2023-08-13 00:19:25.147,Le Havre,2,Oussama Targhalline,Andy Élysée Logbo,12.343419
+2023-08-13 00:19:26.474,Montpellier,1,Issiaga Sylla,Boubakar Kouyate,21.395327
+2023-08-13 00:19:28.265,Montpellier,2,Joris Chotard,Wahbi Khazri,10.466136
+2023-08-13 00:19:29.498,Montpellier,1,Boubakar Kouyate,Issiaga Sylla,17.86393
+2023-08-13 00:19:32.642,Montpellier,1,Issiaga Sylla,Boubakar Kouyate,18.755266
+2023-08-13 00:19:35.761,Montpellier,1,Boubakar Kouyate,Christopher Jullien,32.42792
+2023-08-13 00:19:39.758,Montpellier,1,Christopher Jullien,Boubakar Kouyate,28.544876
+2023-08-13 00:19:43.121,Montpellier,1,Boubakar Kouyate,Christopher Jullien,27.314648
+2023-08-13 00:19:46.791,Montpellier,1,Christopher Jullien,Akor Jerome Adams,67.86118
+2023-08-13 00:19:53.918,Le Havre,1,Arthur Desmas,Oussama Targhalline,14.458562
+2023-08-13 00:19:56.516,Le Havre,1,Oussama Targhalline,Gautier Lloris,15.206906
+2023-08-13 00:19:59.807,Le Havre,1,Gautier Lloris,Josue Casimir,1.3038405
+2023-08-13 00:20:02.838,Montpellier,2,Issiaga Sylla,Benjamin Lecomte,36.465054
+2023-08-13 00:20:08.136,Montpellier,2,Benjamin Lecomte,Téji Savanier,48.71242
+2023-08-13 00:20:11.635,Le Havre,2,Josue Casimir,Gautier Lloris,14.96262
+2023-08-13 00:20:13.339,Le Havre,2,Gautier Lloris,Rassoul N'Diaye,10.929318
+2023-08-13 00:20:14.775,Le Havre,2,Rassoul N'Diaye,Oussama Targhalline,18.109941
+2023-08-13 00:20:16.501,Le Havre,1,Josue Casimir,Issa Soumaré,35.58792
+2023-08-13 00:20:16.950,Le Havre,2,Oussama Targhalline,Daler Kuzyaev,10.031949
+2023-08-13 00:20:18.543,Montpellier,1,Christopher Jullien,Wahbi Khazri,37.1571
+2023-08-13 00:20:19.294,Le Havre,2,Daler Kuzyaev,Loïc Négo,12.169634
+2023-08-13 00:20:21.978,Le Havre,1,Yoann Salmier,Loïc Négo,13.90899
+2023-08-13 00:20:23.397,Le Havre,2,Daler Kuzyaev,Andy Élysée Logbo,4.0
+2023-08-13 00:20:24.531,Montpellier,2,Issiaga Sylla,Boubakar Kouyate,4.6840153
+2023-08-13 00:20:25.763,Montpellier,2,Wahbi Khazri,Joris Chotard,2.2627418
+2023-08-13 00:20:25.824,Le Havre,1,Loïc Négo,Nabil Alioui,24.937723
+2023-08-13 00:20:26.934,Le Havre,1,Nabil Alioui,Issa Soumaré,21.135752
+2023-08-13 00:20:29.481,Montpellier,1,Boubakar Kouyate,Jordan Ferri,10.660675
+2023-08-13 00:20:30.076,Le Havre,2,Oussama Targhalline,Gautier Lloris,22.60553
+2023-08-13 00:20:31.310,Montpellier,1,Jordan Ferri,Moussa Al Tamari,49.865417
+2023-08-13 00:20:33.094,Le Havre,2,Gautier Lloris,Josue Casimir,16.609034
+2023-08-13 00:20:35.462,Le Havre,2,Josue Casimir,Gautier Lloris,10.10198
+2023-08-13 00:20:37.472,Le Havre,2,Gautier Lloris,Oussama Targhalline,7.2111025
+2023-08-13 00:20:39.632,Le Havre,2,Oussama Targhalline,Antoine Joujou,11.4
+2023-08-13 00:20:40.491,Le Havre,2,Antoine Joujou,Oussama Targhalline,9.734988
+2023-08-13 00:20:41.452,Le Havre,2,Oussama Targhalline,Josue Casimir,8.45281
+2023-08-13 00:21:00.210,Montpellier,1,Boubakar Kouyate,Jordan Ferri,30.013664
+2023-08-13 00:21:03.070,Montpellier,2,Falaye Sacko,Akor Jerome Adams,17.525126
+2023-08-13 00:21:04.307,Montpellier,1,Jordan Ferri,Téji Savanier,6.332456
+2023-08-13 00:21:06.578,Montpellier,1,Téji Savanier,Moussa Al Tamari,50.52148
+2023-08-13 00:21:24.041,Le Havre,2,Josue Casimir,Gautier Lloris,6.0926185
+2023-08-13 00:21:25.666,Le Havre,2,Gautier Lloris,Josue Casimir,3.8483763
+2023-08-13 00:21:26.799,Montpellier,2,Moussa Al Tamari,Téji Savanier,8.220098
+2023-08-13 00:21:28.414,Le Havre,2,Arouna Sangante,Josue Casimir,7.4
+2023-08-13 00:21:29.476,Le Havre,2,Josue Casimir,Antoine Joujou,7.648529
+2023-08-13 00:21:33.081,Le Havre,2,Antoine Joujou,Daler Kuzyaev,16.560495
+2023-08-13 00:21:36.756,Le Havre,2,Daler Kuzyaev,Josue Casimir,6.3348246
+2023-08-13 00:21:37.105,Le Havre,1,Yoann Salmier,Issa Soumaré,84.49953
+2023-08-13 00:21:39.380,Le Havre,2,Josue Casimir,Gautier Lloris,9.688137
+2023-08-13 00:21:41.404,Montpellier,1,Boubakar Kouyate,Benjamin Lecomte,18.107733
+2023-08-13 00:21:42.144,Le Havre,2,Gautier Lloris,Arouna Sangante,16.919811
+2023-08-13 00:21:43.208,Montpellier,1,Benjamin Lecomte,Christopher Jullien,21.511393
+2023-08-13 00:21:44.287,Le Havre,2,Arouna Sangante,Loïc Négo,35.336243
+2023-08-13 00:21:44.713,Montpellier,1,Christopher Jullien,Joris Chotard,24.480604
+2023-08-13 00:21:47.037,Le Havre,2,Loïc Négo,Oussama Targhalline,11.1892805
+2023-08-13 00:21:50.063,Le Havre,1,Oussama Targhalline,Nabil Alioui,9.992997
+2023-08-13 00:21:50.163,Le Havre,2,Oussama Targhalline,Rassoul N'Diaye,20.036966
+2023-08-13 00:21:50.759,Montpellier,1,Boubakar Kouyate,Jordan Ferri,4.0
+2023-08-13 00:21:51.780,Le Havre,2,Rassoul N'Diaye,Loïc Négo,17.756407
+2023-08-13 00:21:52.870,Montpellier,1,Joris Chotard,Benjamin Lecomte,20.601456
+2023-08-13 00:21:56.522,Montpellier,1,Benjamin Lecomte,Téji Savanier,34.175575
+2023-08-13 00:21:56.541,Le Havre,2,Loïc Négo,Andy Élysée Logbo,15.115886
+2023-08-13 00:21:59.103,Montpellier,1,Téji Savanier,Falaye Sacko,12.658989
+2023-08-13 00:22:02.095,Montpellier,1,Falaye Sacko,Téji Savanier,15.932671
+2023-08-13 00:22:03.969,Montpellier,2,Joris Chotard,Téji Savanier,28.935965
+2023-08-13 00:22:06.338,Le Havre,1,Issa Soumaré,Nabil Alioui,5.936329
+2023-08-13 00:22:08.260,Le Havre,2,Daler Kuzyaev,Rassoul N'Diaye,26.500189
+2023-08-13 00:22:10.514,Montpellier,1,Téji Savanier,Falaye Sacko,14.255526
+2023-08-13 00:22:12.127,Montpellier,1,Falaye Sacko,Benjamin Lecomte,27.070278
+2023-08-13 00:22:12.292,Montpellier,2,Wahbi Khazri,Akor Jerome Adams,18.690372
+2023-08-13 00:22:13.892,Montpellier,2,Akor Jerome Adams,Wahbi Khazri,15.06851
+2023-08-13 00:22:16.210,Montpellier,2,Wahbi Khazri,Jordan Ferri,16.015305
+2023-08-13 00:22:16.308,Montpellier,1,Benjamin Lecomte,Issiaga Sylla,36.13876
+2023-08-13 00:22:18.033,Montpellier,2,Jordan Ferri,Issiaga Sylla,14.242542
+2023-08-13 00:22:20.063,Montpellier,2,Issiaga Sylla,Boubakar Kouyate,19.581879
+2023-08-13 00:22:21.189,Montpellier,1,Issiaga Sylla,Akor Jerome Adams,23.403633
+2023-08-13 00:22:22.688,Montpellier,2,Boubakar Kouyate,Christopher Jullien,25.101793
+2023-08-13 00:22:23.041,Le Havre,1,Loïc Négo,Oussama Targhalline,10.404326
+2023-08-13 00:22:25.332,Montpellier,2,Christopher Jullien,Falaye Sacko,19.52255
+2023-08-13 00:22:28.528,Montpellier,2,Falaye Sacko,Joris Chotard,18.58736
+2023-08-13 00:22:30.283,Montpellier,2,Joris Chotard,Christopher Jullien,14.128341
+2023-08-13 00:22:30.506,Le Havre,1,Oussama Targhalline,Loïc Négo,16.593975
+2023-08-13 00:22:31.555,Montpellier,2,Christopher Jullien,Boubakar Kouyate,23.741314
+2023-08-13 00:22:33.270,Le Havre,1,Loïc Négo,Oussama Targhalline,16.003124
+2023-08-13 00:22:34.516,Le Havre,1,Oussama Targhalline,Loïc Négo,11.903781
+2023-08-13 00:22:34.937,Montpellier,2,Boubakar Kouyate,Christopher Jullien,21.257704
+2023-08-13 00:22:36.038,Montpellier,2,Christopher Jullien,Benjamin Lecomte,21.763502
+2023-08-13 00:22:36.087,Le Havre,1,Loïc Négo,Arouna Sangante,25.756165
+2023-08-13 00:22:39.763,Montpellier,2,Benjamin Lecomte,Wahbi Khazri,63.964756
+2023-08-13 00:22:44.273,Le Havre,1,Arouna Sangante,Loïc Négo,58.081493
+2023-08-13 00:22:45.211,Le Havre,2,Loïc Négo,Oussama Targhalline,22.280035
+2023-08-13 00:22:48.339,Le Havre,2,Oussama Targhalline,Antoine Joujou,13.395895
+2023-08-13 00:22:48.485,Le Havre,1,Loïc Négo,Nabil Alioui,29.082296
+2023-08-13 00:22:49.364,Le Havre,2,Antoine Joujou,Oussama Targhalline,8.028076
+2023-08-13 00:22:56.218,Montpellier,2,Joris Chotard,Téji Savanier,14.546477
+2023-08-13 00:23:04.550,Le Havre,2,Yoann Salmier,Rassoul N'Diaye,19.945927
+2023-08-13 00:23:08.115,Le Havre,2,Rassoul N'Diaye,Andy Élysée Logbo,38.470768
+2023-08-13 00:23:19.015,Montpellier,1,Benjamin Lecomte,Akor Jerome Adams,58.553394
+2023-08-13 00:25:41.995,Le Havre,1,Arouna Sangante,Josue Casimir,67.525475
+2023-08-13 00:25:56.611,Montpellier,1,Falaye Sacko,Jordan Ferri,14.618482
+2023-08-13 00:25:57.595,Montpellier,1,Jordan Ferri,Falaye Sacko,7.9605274
+2023-08-13 00:25:58.906,Montpellier,1,Falaye Sacko,Téji Savanier,3.7121422
+2023-08-13 00:25:59.613,Le Havre,1,Daler Kuzyaev,Issa Soumaré,20.16259
+2023-08-13 00:26:01.319,Le Havre,1,Issa Soumaré,Nabil Alioui,12.432618
+2023-08-13 00:26:02.854,Montpellier,1,Joris Chotard,Christopher Jullien,10.316007
+2023-08-13 00:26:04.798,Montpellier,1,Christopher Jullien,Benjamin Lecomte,17.32195
+2023-08-13 00:26:06.798,Montpellier,1,Benjamin Lecomte,Issiaga Sylla,28.45435
+2023-08-13 00:26:11.651,Montpellier,1,Issiaga Sylla,Jordan Ferri,11.132385
+2023-08-13 00:26:16.814,Montpellier,1,Jordan Ferri,Wahbi Khazri,20.689127
+2023-08-13 00:26:20.107,Le Havre,2,Yoann Salmier,Andy Élysée Logbo,18.4
+2023-08-13 00:26:21.575,Le Havre,1,Oussama Targhalline,Issa Soumaré,14.5
+2023-08-13 00:26:25.986,Montpellier,2,Jordan Ferri,Benjamin Lecomte,24.242525
+2023-08-13 00:26:28.721,Montpellier,2,Benjamin Lecomte,Akor Jerome Adams,52.816
+2023-08-13 00:26:31.310,Le Havre,2,Yoann Salmier,Antoine Joujou,6.928925
+2023-08-13 00:26:37.284,Montpellier,1,Benjamin Lecomte,Issiaga Sylla,44.91737
+2023-08-13 00:26:39.710,Le Havre,2,Antoine Joujou,Daler Kuzyaev,9.078547
+2023-08-13 00:26:40.954,Le Havre,2,Daler Kuzyaev,Oussama Targhalline,10.783784
+2023-08-13 00:26:42.447,Montpellier,1,Issiaga Sylla,Téji Savanier,8.904493
+2023-08-13 00:26:43.308,Montpellier,1,Téji Savanier,Boubakar Kouyate,13.101526
+2023-08-13 00:26:44.586,Le Havre,2,Oussama Targhalline,Samuel Grandsir,14.425672
+2023-08-13 00:26:45.061,Montpellier,1,Boubakar Kouyate,Téji Savanier,18.984203
+2023-08-13 00:26:48.348,Le Havre,2,Samuel Grandsir,Daler Kuzyaev,28.935965
+2023-08-13 00:26:48.481,Montpellier,1,Téji Savanier,Christopher Jullien,28.756392
+2023-08-13 00:26:50.880,Le Havre,2,Daler Kuzyaev,Arouna Sangante,16.018114
+2023-08-13 00:26:51.094,Montpellier,1,Christopher Jullien,Falaye Sacko,13.682105
+2023-08-13 00:26:53.185,Le Havre,2,Arouna Sangante,Yoann Salmier,16.618362
+2023-08-13 00:26:53.522,Montpellier,1,Falaye Sacko,Joris Chotard,9.390421
+2023-08-13 00:26:54.435,Montpellier,1,Joris Chotard,Christopher Jullien,19.5
+2023-08-13 00:26:55.532,Le Havre,2,Yoann Salmier,Samuel Grandsir,12.85496
+2023-08-13 00:26:57.042,Le Havre,2,Samuel Grandsir,Antoine Joujou,10.332473
+2023-08-13 00:26:57.221,Montpellier,1,Christopher Jullien,Boubakar Kouyate,34.814365
+2023-08-13 00:26:57.810,Le Havre,2,Antoine Joujou,Yoann Salmier,10.040419
+2023-08-13 00:27:00.922,Le Havre,2,Yoann Salmier,Antoine Joujou,12.347064
+2023-08-13 00:27:01.499,Montpellier,1,Boubakar Kouyate,Jordan Ferri,13.505924
+2023-08-13 00:27:02.664,Le Havre,2,Antoine Joujou,Samuel Grandsir,10.5948105
+2023-08-13 00:27:04.424,Montpellier,1,Jordan Ferri,Christopher Jullien,39.62474
+2023-08-13 00:27:06.065,Le Havre,2,Samuel Grandsir,Daler Kuzyaev,12.495199
+2023-08-13 00:27:06.820,Montpellier,1,Christopher Jullien,Falaye Sacko,14.676852
+2023-08-13 00:27:09.297,Montpellier,1,Falaye Sacko,Moussa Al Tamari,13.2924795
+2023-08-13 00:27:11.673,Montpellier,2,Khalil Fayad,Issiaga Sylla,8.96772
+2023-08-13 00:27:11.887,Montpellier,1,Moussa Al Tamari,Falaye Sacko,15.337862
+2023-08-13 00:27:13.032,Montpellier,2,Issiaga Sylla,Jordan Ferri,14.5
+2023-08-13 00:27:13.927,Montpellier,1,Falaye Sacko,Jordan Ferri,17.258621
+2023-08-13 00:27:15.468,Le Havre,1,Oussama Targhalline,Issa Soumaré,6.846897
+2023-08-13 00:27:16.209,Le Havre,1,Issa Soumaré,Yoann Salmier,21.920767
+2023-08-13 00:27:17.397,Le Havre,2,Samuel Grandsir,Yassine Kechta,13.656135
+2023-08-13 00:27:18.532,Le Havre,1,Yoann Salmier,Loïc Négo,20.861448
+2023-08-13 00:27:37.232,Le Havre,1,Loïc Négo,Arouna Sangante,24.123226
+2023-08-13 00:27:40.003,Le Havre,1,Arouna Sangante,Gautier Lloris,32.01156
+2023-08-13 00:27:42.655,Le Havre,1,Gautier Lloris,Josue Casimir,23.496809
+2023-08-13 00:27:44.370,Le Havre,1,Josue Casimir,Daler Kuzyaev,3.7735925
+2023-08-13 00:27:45.601,Montpellier,2,Benjamin Lecomte,Khalil Fayad,69.13364
+2023-08-13 00:27:48.640,Montpellier,1,Falaye Sacko,Jordan Ferri,11.968291
+2023-08-13 00:27:51.021,Montpellier,1,Jordan Ferri,Boubakar Kouyate,29.445713
+2023-08-13 00:27:55.441,Montpellier,1,Boubakar Kouyate,Jordan Ferri,24.289297
+2023-08-13 00:27:58.049,Le Havre,2,Oussama Targhalline,Samuel Grandsir,17.129215
+2023-08-13 00:27:58.927,Le Havre,2,Samuel Grandsir,Oussama Targhalline,15.692355
+2023-08-13 00:27:59.100,Montpellier,1,Jordan Ferri,Falaye Sacko,17.698023
+2023-08-13 00:28:01.088,Le Havre,2,Oussama Targhalline,Josue Casimir,43.793262
+2023-08-13 00:28:05.316,Le Havre,2,Josue Casimir,Yassine Kechta,8.321658
+2023-08-13 00:28:07.070,Le Havre,2,Yassine Kechta,Samuel Grandsir,15.787653
+2023-08-13 00:28:07.385,Montpellier,1,Falaye Sacko,Téji Savanier,9.17878
+2023-08-13 00:28:08.219,Montpellier,1,Téji Savanier,Jordan Ferri,19.393297
+2023-08-13 00:28:10.055,Montpellier,1,Jordan Ferri,Christopher Jullien,20.96974
+2023-08-13 00:28:11.104,Le Havre,2,Samuel Grandsir,Oussama Targhalline,8.561542
+2023-08-13 00:28:13.651,Montpellier,1,Christopher Jullien,Boubakar Kouyate,33.873295
+2023-08-13 00:28:15.251,Montpellier,1,Boubakar Kouyate,Issiaga Sylla,23.864828
+2023-08-13 00:28:15.654,Le Havre,2,Oussama Targhalline,Yoann Salmier,21.36001
+2023-08-13 00:28:17.832,Le Havre,2,Yoann Salmier,Antoine Joujou,14.495861
+2023-08-13 00:28:18.801,Montpellier,1,Issiaga Sylla,Wahbi Khazri,14.8499155
+2023-08-13 00:28:20.097,Montpellier,1,Wahbi Khazri,Issiaga Sylla,31.3498
+2023-08-13 00:28:21.445,Le Havre,2,Antoine Joujou,Yassine Kechta,42.826393
+2023-08-13 00:28:22.821,Montpellier,1,Issiaga Sylla,Téji Savanier,29.87206
+2023-08-13 00:28:24.230,Le Havre,2,Yassine Kechta,Andy Élysée Logbo,9.167879
+2023-08-13 00:28:24.577,Le Havre,1,Arouna Sangante,Oussama Targhalline,4.4011364
+2023-08-13 00:28:26.079,Le Havre,1,Oussama Targhalline,Loïc Négo,2.1931713
+2023-08-13 00:28:28.287,Le Havre,1,Loïc Négo,Issa Soumaré,30.088535
+2023-08-13 00:28:31.451,Montpellier,1,Joris Chotard,Boubakar Kouyate,22.038376
+2023-08-13 00:28:32.518,Montpellier,2,Benjamin Lecomte,Arnaud Nordin,40.717194
+2023-08-13 00:28:34.387,Montpellier,1,Boubakar Kouyate,Falaye Sacko,37.60851
+2023-08-13 00:28:40.285,Montpellier,1,Falaye Sacko,Jordan Ferri,19.102356
+2023-08-13 00:28:40.936,Montpellier,2,Arnaud Nordin,Jordan Ferri,11.115754
+2023-08-13 00:28:42.914,Montpellier,1,Jordan Ferri,Wahbi Khazri,48.237434
+2023-08-13 00:28:43.460,Montpellier,2,Jordan Ferri,Falaye Sacko,14.932515
+2023-08-13 00:28:45.521,Montpellier,2,Falaye Sacko,Christopher Jullien,11.638728
+2023-08-13 00:28:47.951,Montpellier,2,Christopher Jullien,Boubakar Kouyate,27.58786
+2023-08-13 00:28:50.318,Montpellier,1,Wahbi Khazri,Boubakar Kouyate,19.104973
+2023-08-13 00:28:50.720,Montpellier,2,Boubakar Kouyate,Khalil Fayad,13.080137
+2023-08-13 00:28:52.688,Montpellier,2,Khalil Fayad,Christopher Jullien,28.6681
+2023-08-13 00:28:54.353,Montpellier,1,Boubakar Kouyate,Téji Savanier,17.554771
+2023-08-13 00:28:55.644,Montpellier,2,Christopher Jullien,Falaye Sacko,21.416115
+2023-08-13 00:28:57.239,Montpellier,1,Téji Savanier,Boubakar Kouyate,13.934489
+2023-08-13 00:28:58.074,Montpellier,2,Falaye Sacko,Christopher Jullien,19.89774
+2023-08-13 00:28:59.449,Montpellier,1,Boubakar Kouyate,Jordan Ferri,9.504736
+2023-08-13 00:29:00.952,Montpellier,1,Jordan Ferri,Téji Savanier,9.483143
+2023-08-13 00:29:01.030,Montpellier,2,Christopher Jullien,Boubakar Kouyate,28.3
+2023-08-13 00:29:01.870,Montpellier,1,Téji Savanier,Boubakar Kouyate,13.784411
+2023-08-13 00:29:03.070,Montpellier,1,Boubakar Kouyate,Joris Chotard,16.909464
+2023-08-13 00:29:04.020,Montpellier,2,Boubakar Kouyate,Christopher Jullien,26.946613
+2023-08-13 00:29:04.914,Montpellier,1,Joris Chotard,Téji Savanier,11.289375
+2023-08-13 00:29:06.752,Montpellier,2,Christopher Jullien,Benjamin Lecomte,18.67244
+2023-08-13 00:29:07.045,Montpellier,1,Téji Savanier,Moussa Al Tamari,42.438896
+2023-08-13 00:29:09.550,Montpellier,2,Benjamin Lecomte,Moussa Al Tamari,54.322464
+2023-08-13 00:29:12.405,Le Havre,2,Yoann Salmier,Daler Kuzyaev,12.465152
+2023-08-13 00:29:13.256,Montpellier,1,Falaye Sacko,Akor Jerome Adams,15.275144
+2023-08-13 00:29:14.076,Montpellier,2,Issiaga Sylla,Khalil Fayad,14.710541
+2023-08-13 00:29:14.470,Le Havre,1,Oussama Targhalline,Josue Casimir,12.841339
+2023-08-13 00:29:15.712,Montpellier,2,Khalil Fayad,Joris Chotard,13.322162
+2023-08-13 00:29:15.916,Montpellier,1,Falaye Sacko,Moussa Al Tamari,11.386395
+2023-08-13 00:29:17.941,Montpellier,2,Joris Chotard,Christopher Jullien,17.487425
+2023-08-13 00:29:20.574,Montpellier,2,Christopher Jullien,Falaye Sacko,17.098831
+2023-08-13 00:29:24.361,Montpellier,2,Falaye Sacko,Arnaud Nordin,12.495199
+2023-08-13 00:29:33.592,Le Havre,2,Gautier Lloris,Yassine Kechta,15.1
+2023-08-13 00:29:42.603,Le Havre,2,Yassine Kechta,Andy Élysée Logbo,6.2241464
+2023-08-13 00:29:45.257,Le Havre,2,Andy Élysée Logbo,Samuel Grandsir,10.67052
+2023-08-13 00:29:50.030,Le Havre,2,Samuel Grandsir,Antoine Joujou,49.656822
+2023-08-13 00:29:55.951,Le Havre,2,Antoine Joujou,Oussama Targhalline,21.559452
+2023-08-13 00:29:59.214,Le Havre,2,Oussama Targhalline,Josue Casimir,24.96157
+2023-08-13 00:30:06.977,Le Havre,2,Josue Casimir,Andy Élysée Logbo,30.109964
+2023-08-13 00:30:15.205,Le Havre,2,Samuel Grandsir,Gautier Lloris,36.599045
+2023-08-13 00:30:18.326,Le Havre,2,Gautier Lloris,Arthur Desmas,12.841339
+2023-08-13 00:30:19.420,Le Havre,2,Arthur Desmas,Oussama Targhalline,38.575123
+2023-08-13 00:30:25.117,Le Havre,2,Oussama Targhalline,Yassine Kechta,15.825612
+2023-08-13 00:30:27.886,Montpellier,1,Téji Savanier,Christopher Jullien,29.443504
+2023-08-13 00:30:30.000,Le Havre,2,Yassine Kechta,Arouna Sangante,19.024458
+2023-08-13 00:30:31.368,Montpellier,1,Jordan Ferri,Wahbi Khazri,13.600368
+2023-08-13 00:30:32.462,Montpellier,1,Wahbi Khazri,Christopher Jullien,18.721645
+2023-08-13 00:30:32.510,Le Havre,2,Arouna Sangante,Yoann Salmier,25.563255
+2023-08-13 00:30:36.288,Le Havre,2,Yoann Salmier,Antoine Joujou,13.799275
+2023-08-13 00:30:38.553,Le Havre,2,Antoine Joujou,Yassine Kechta,11.0923395
+2023-08-13 00:30:39.446,Le Havre,2,Yassine Kechta,Daler Kuzyaev,16.260996
+2023-08-13 00:30:40.244,Montpellier,2,Joris Chotard,Akor Jerome Adams,24.010414
+2023-08-13 00:30:47.423,Montpellier,2,Akor Jerome Adams,Arnaud Nordin,7.324616
+2023-08-13 00:30:49.772,Le Havre,2,Gautier Lloris,Oussama Targhalline,9.464143
+2023-08-13 00:30:55.931,Le Havre,2,Oussama Targhalline,Samuel Grandsir,16.280663
+2023-08-13 00:31:02.772,Le Havre,2,Samuel Grandsir,Daler Kuzyaev,16.952286
+2023-08-13 00:31:05.411,Le Havre,1,Arthur Desmas,Issa Soumaré,58.46067
+2023-08-13 00:31:05.557,Le Havre,2,Daler Kuzyaev,Josue Casimir,11.115754
+2023-08-13 00:31:06.158,Le Havre,2,Josue Casimir,Samuel Grandsir,6.6287255
+2023-08-13 00:31:08.149,Le Havre,1,Issa Soumaré,Nabil Alioui,10.394229
+2023-08-13 00:31:09.383,Montpellier,1,Joris Chotard,Boubakar Kouyate,16.23607
+2023-08-13 00:31:13.521,Montpellier,1,Boubakar Kouyate,Christopher Jullien,22.138203
+2023-08-13 00:31:15.701,Montpellier,1,Christopher Jullien,Jordan Ferri,7.180529
+2023-08-13 00:31:16.828,Montpellier,1,Jordan Ferri,Christopher Jullien,13.452509
+2023-08-13 00:31:18.428,Montpellier,1,Christopher Jullien,Boubakar Kouyate,26.023258
+2023-08-13 00:31:21.172,Montpellier,1,Boubakar Kouyate,Issiaga Sylla,32.169704
+2023-08-13 00:31:26.171,Montpellier,1,Issiaga Sylla,Wahbi Khazri,10.756393
+2023-08-13 00:31:31.939,Le Havre,1,Oussama Targhalline,Issa Soumaré,18.388311
+2023-08-13 00:32:01.505,Le Havre,1,Loïc Négo,Issa Soumaré,17.142054
+2023-08-13 00:32:03.230,Le Havre,1,Issa Soumaré,Nabil Alioui,32.24717
+2023-08-13 00:32:06.940,Le Havre,2,Josue Casimir,Andy Élysée Logbo,13.368994
+2023-08-13 00:32:07.561,Montpellier,1,Benjamin Lecomte,Joris Chotard,25.951492
+2023-08-13 00:32:10.501,Montpellier,1,Joris Chotard,Moussa Al Tamari,32.84159
+2023-08-13 00:32:18.535,Montpellier,1,Moussa Al Tamari,Joris Chotard,3.337664
+2023-08-13 00:32:25.232,Montpellier,1,Falaye Sacko,Moussa Al Tamari,16.909761
+2023-08-13 00:32:42.276,Montpellier,2,Benjamin Lecomte,Sepe Elye Wahi,60.508263
+2023-08-13 00:32:44.740,Montpellier,2,Sepe Elye Wahi,Arnaud Nordin,8.876936
+2023-08-13 00:32:46.297,Montpellier,2,Arnaud Nordin,Sepe Elye Wahi,14.3178215
+2023-08-13 00:32:48.803,Montpellier,1,Falaye Sacko,Akor Jerome Adams,29.674568
+2023-08-13 00:32:53.296,Le Havre,1,Nabil Alioui,Issa Soumaré,37.579384
+2023-08-13 00:32:57.767,Montpellier,1,Joris Chotard,Wahbi Khazri,22.489998
+2023-08-13 00:33:00.359,Montpellier,2,Falaye Sacko,Joris Chotard,8.15414
+2023-08-13 00:33:00.486,Montpellier,1,Wahbi Khazri,Benjamin Lecomte,36.322582
+2023-08-13 00:33:02.644,Montpellier,2,Joris Chotard,Boubakar Kouyate,42.96836
+2023-08-13 00:33:07.665,Montpellier,2,Boubakar Kouyate,Christopher Jullien,28.5
+2023-08-13 00:33:11.459,Montpellier,2,Christopher Jullien,Sepe Elye Wahi,77.58376
+2023-08-13 00:33:24.246,Le Havre,2,Gautier Lloris,Yassine Kechta,5.7218876
+2023-08-13 00:33:25.137,Le Havre,2,Yassine Kechta,Josue Casimir,9.904545
+2023-08-13 00:33:27.118,Le Havre,2,Josue Casimir,Samuel Grandsir,7.5059977
+2023-08-13 00:33:28.656,Montpellier,1,Christopher Jullien,Jordan Ferri,3.905125
+2023-08-13 00:33:28.930,Le Havre,2,Samuel Grandsir,Daler Kuzyaev,3.8275318
+2023-08-13 00:33:30.136,Montpellier,1,Jordan Ferri,Moussa Al Tamari,31.60965
+2023-08-13 00:33:33.676,Montpellier,1,Moussa Al Tamari,Falaye Sacko,16.507574
+2023-08-13 00:33:34.917,Montpellier,1,Falaye Sacko,Moussa Al Tamari,6.726812
+2023-08-13 00:33:36.202,Montpellier,1,Moussa Al Tamari,Jordan Ferri,9.13017
+2023-08-13 00:33:36.328,Le Havre,2,Josue Casimir,Andy Élysée Logbo,27.28003
+2023-08-13 00:33:37.494,Montpellier,1,Jordan Ferri,Christopher Jullien,17.407183
+2023-08-13 00:33:38.490,Montpellier,2,Falaye Sacko,Leo Leroy,7.9906197
+2023-08-13 00:33:39.204,Montpellier,1,Christopher Jullien,Boubakar Kouyate,23.97603
+2023-08-13 00:33:41.596,Le Havre,2,Daler Kuzyaev,Samuel Grandsir,10.98954
+2023-08-13 00:33:42.022,Montpellier,1,Boubakar Kouyate,Issiaga Sylla,25.945328
+2023-08-13 00:33:42.898,Le Havre,2,Samuel Grandsir,Andy Élysée Logbo,4.8
+2023-08-13 00:33:43.512,Le Havre,2,Andy Élysée Logbo,Daler Kuzyaev,6.2968245
+2023-08-13 00:33:43.964,Le Havre,2,Daler Kuzyaev,Andy Élysée Logbo,8.471718
+2023-08-13 00:33:48.717,Montpellier,1,Issiaga Sylla,Christopher Jullien,30.140007
+2023-08-13 00:33:51.648,Montpellier,1,Christopher Jullien,Jordan Ferri,13.336416
+2023-08-13 00:33:55.197,Montpellier,1,Jordan Ferri,Christopher Jullien,14.06556
+2023-08-13 00:33:57.921,Montpellier,1,Christopher Jullien,Boubakar Kouyate,25.10498
+2023-08-13 00:34:03.399,Le Havre,1,Oussama Targhalline,Issa Soumaré,31.11736
+2023-08-13 00:34:06.306,Le Havre,2,Josue Casimir,Samuel Grandsir,15.6
+2023-08-13 00:34:07.722,Le Havre,2,Samuel Grandsir,Yassine Kechta,7.093659
+2023-08-13 00:34:09.358,Le Havre,2,Yassine Kechta,Samuel Grandsir,10.662083
+2023-08-13 00:34:12.413,Montpellier,1,Issiaga Sylla,Joris Chotard,11.871394
+2023-08-13 00:34:15.027,Montpellier,1,Joris Chotard,Jordan Ferri,29.350298
+2023-08-13 00:34:17.718,Montpellier,2,Khalil Fayad,Benjamin Lecomte,21.542517
+2023-08-13 00:34:17.803,Montpellier,1,Jordan Ferri,Falaye Sacko,20.338387
+2023-08-13 00:34:20.173,Montpellier,1,Falaye Sacko,Jordan Ferri,10.023972
+2023-08-13 00:34:21.076,Montpellier,1,Jordan Ferri,Moussa Al Tamari,16.88816
+2023-08-13 00:34:22.504,Le Havre,1,Gautier Lloris,Rassoul N'Diaye,14.50655
+2023-08-13 00:34:24.203,Montpellier,1,Jordan Ferri,Moussa Al Tamari,13.551753
+2023-08-13 00:34:24.485,Montpellier,2,Benjamin Lecomte,Sepe Elye Wahi,61.537388
+2023-08-13 00:34:31.081,Le Havre,2,Josue Casimir,Samuel Grandsir,17.965523
+2023-08-13 00:34:33.771,Le Havre,2,Samuel Grandsir,Daler Kuzyaev,14.503103
+2023-08-13 00:34:36.906,Le Havre,2,Daler Kuzyaev,Antoine Joujou,54.98509
+2023-08-13 00:34:43.904,Le Havre,2,Antoine Joujou,Oussama Targhalline,21.102133
+2023-08-13 00:34:45.990,Le Havre,2,Oussama Targhalline,Antoine Joujou,14.713599
+2023-08-13 00:34:50.722,Le Havre,2,Antoine Joujou,Andy Élysée Logbo,31.269953
+2023-08-13 00:35:04.432,Montpellier,1,Téji Savanier,Christopher Jullien,51.549297
+2023-08-13 00:35:06.550,Le Havre,2,Arouna Sangante,Antoine Joujou,30.619274
+2023-08-13 00:35:11.278,Le Havre,2,Antoine Joujou,Daler Kuzyaev,21.85635
+2023-08-13 00:35:13.459,Le Havre,2,Daler Kuzyaev,Josue Casimir,24.242525
+2023-08-13 00:35:14.717,Montpellier,1,Falaye Sacko,Benjamin Lecomte,33.485817
+2023-08-13 00:35:17.411,Montpellier,1,Benjamin Lecomte,Téji Savanier,25.825956
+2023-08-13 00:35:20.528,Le Havre,2,Josue Casimir,Oussama Targhalline,11.236102
+2023-08-13 00:35:20.545,Montpellier,1,Téji Savanier,Wahbi Khazri,71.186584
+2023-08-13 00:35:23.111,Le Havre,2,Oussama Targhalline,Antoine Joujou,11.627554
+2023-08-13 00:35:25.608,Le Havre,2,Antoine Joujou,Daler Kuzyaev,24.382166
+2023-08-13 00:35:31.906,Le Havre,2,Daler Kuzyaev,Gautier Lloris,20.380629
+2023-08-13 00:35:36.341,Le Havre,2,Gautier Lloris,Daler Kuzyaev,15.10298
+2023-08-13 00:35:37.294,Le Havre,2,Daler Kuzyaev,Josue Casimir,21.44621
+2023-08-13 00:36:07.570,Montpellier,2,Benjamin Lecomte,Christopher Jullien,11.610771
+2023-08-13 00:36:07.976,Le Havre,1,Arouna Sangante,Issa Soumaré,55.35648
+2023-08-13 00:36:09.683,Montpellier,2,Christopher Jullien,Benjamin Lecomte,17.886868
+2023-08-13 00:36:10.670,Le Havre,1,Issa Soumaré,Nabil Alioui,26.076809
+2023-08-13 00:36:11.739,Montpellier,2,Benjamin Lecomte,Boubakar Kouyate,14.653668
+2023-08-13 00:36:12.914,Montpellier,1,Christopher Jullien,Benjamin Lecomte,18.776848
+2023-08-13 00:36:14.759,Montpellier,1,Benjamin Lecomte,Christopher Jullien,15.280052
+2023-08-13 00:36:15.586,Montpellier,2,Boubakar Kouyate,Moussa Al Tamari,51.742634
+2023-08-13 00:36:16.359,Montpellier,1,Christopher Jullien,Téji Savanier,34.375862
+2023-08-13 00:36:17.179,Le Havre,2,Yoann Salmier,Oussama Targhalline,34.024258
+2023-08-13 00:36:18.661,Montpellier,1,Téji Savanier,Falaye Sacko,11.700427
+2023-08-13 00:36:21.020,Montpellier,1,Falaye Sacko,Jordan Ferri,15.34438
+2023-08-13 00:36:23.437,Montpellier,1,Jordan Ferri,Issiaga Sylla,43.467342
+2023-08-13 00:36:23.809,Montpellier,2,Khalil Fayad,Joris Chotard,9.62133
+2023-08-13 00:36:24.650,Montpellier,2,Joris Chotard,Christopher Jullien,18.4808
+2023-08-13 00:36:27.329,Montpellier,2,Christopher Jullien,Falaye Sacko,15.363918
+2023-08-13 00:36:29.215,Montpellier,1,Issiaga Sylla,Joris Chotard,10.043903
+2023-08-13 00:36:30.350,Montpellier,2,Falaye Sacko,Christopher Jullien,15.171684
+2023-08-13 00:36:32.247,Montpellier,1,Joris Chotard,Christopher Jullien,26.122213
+2023-08-13 00:36:32.668,Montpellier,2,Christopher Jullien,Boubakar Kouyate,30.20414
+2023-08-13 00:36:34.959,Montpellier,1,Christopher Jullien,Falaye Sacko,22.763567
+2023-08-13 00:36:37.256,Montpellier,1,Falaye Sacko,Téji Savanier,19.642046
+2023-08-13 00:36:38.380,Montpellier,1,Téji Savanier,Moussa Al Tamari,24.349539
+2023-08-13 00:36:39.034,Montpellier,2,Boubakar Kouyate,Sepe Elye Wahi,73.55277
+2023-08-13 00:36:42.333,Montpellier,1,Moussa Al Tamari,Falaye Sacko,9.552486
+2023-08-13 00:36:44.229,Le Havre,2,Arthur Desmas,Arouna Sangante,12.80039
+2023-08-13 00:36:44.754,Montpellier,1,Falaye Sacko,Jordan Ferri,5.5785303
+2023-08-13 00:36:46.330,Le Havre,2,Arouna Sangante,Gautier Lloris,27.483814
+2023-08-13 00:36:51.799,Le Havre,2,Gautier Lloris,Yassine Kechta,6.7720013
+2023-08-13 00:36:52.110,Montpellier,1,Christopher Jullien,Boubakar Kouyate,24.105186
+2023-08-13 00:36:53.876,Le Havre,2,Yassine Kechta,Antoine Joujou,45.663334
+2023-08-13 00:36:54.110,Montpellier,1,Boubakar Kouyate,Joris Chotard,11.825819
+2023-08-13 00:36:56.356,Montpellier,1,Joris Chotard,Moussa Al Tamari,34.51449
+2023-08-13 00:36:58.086,Le Havre,2,Antoine Joujou,Yoann Salmier,17.534538
+2023-08-13 00:37:00.809,Le Havre,2,Yoann Salmier,Arthur Desmas,40.70995
+2023-08-13 00:37:05.041,Le Havre,2,Arthur Desmas,Yassine Kechta,17.831432
+2023-08-13 00:37:07.337,Le Havre,2,Yassine Kechta,Gautier Lloris,21.51116
+2023-08-13 00:37:09.504,Le Havre,2,Gautier Lloris,Yassine Kechta,7.2897186
+2023-08-13 00:37:10.316,Le Havre,2,Yassine Kechta,Josue Casimir,24.491018
+2023-08-13 00:37:14.281,Le Havre,1,Josue Casimir,Oussama Targhalline,11.896638
+2023-08-13 00:37:16.190,Le Havre,1,Oussama Targhalline,Daler Kuzyaev,8.902246
+2023-08-13 00:37:17.535,Le Havre,1,Daler Kuzyaev,Rassoul N'Diaye,9.219544
+2023-08-13 00:37:17.734,Le Havre,2,Daler Kuzyaev,Samuel Grandsir,15.220053
+2023-08-13 00:37:19.245,Montpellier,1,Joris Chotard,Akor Jerome Adams,16.391766
+2023-08-13 00:37:22.757,Montpellier,1,Akor Jerome Adams,Téji Savanier,11.412712
+2023-08-13 00:37:23.924,Montpellier,1,Téji Savanier,Moussa Al Tamari,30.512457
+2023-08-13 00:37:24.425,Le Havre,2,Samuel Grandsir,Antoine Joujou,16.412495
+2023-08-13 00:37:58.083,Montpellier,2,Benjamin Lecomte,Arnaud Nordin,55.87781
+2023-08-13 00:38:01.359,Le Havre,2,Josue Casimir,Samuel Grandsir,28.872131
+2023-08-13 00:38:06.677,Montpellier,2,Joris Chotard,Khalil Fayad,11.788978
+2023-08-13 00:38:09.828,Montpellier,2,Khalil Fayad,Moussa Al Tamari,23.277672
+2023-08-13 00:38:13.032,Montpellier,2,Moussa Al Tamari,Sepe Elye Wahi,17.062824
+2023-08-13 00:38:17.392,Le Havre,2,Yassine Kechta,Oussama Targhalline,11.512168
+2023-08-13 00:38:24.402,Le Havre,2,Oussama Targhalline,Yassine Kechta,12.889143
+2023-08-13 00:38:27.263,Le Havre,2,Yassine Kechta,Daler Kuzyaev,23.860638
+2023-08-13 00:38:32.823,Le Havre,2,Daler Kuzyaev,Gautier Lloris,19.991999
+2023-08-13 00:38:37.636,Le Havre,2,Gautier Lloris,Yassine Kechta,10.121264
+2023-08-13 00:38:40.302,Le Havre,2,Yassine Kechta,Daler Kuzyaev,10.151355
+2023-08-13 00:38:41.939,Le Havre,2,Daler Kuzyaev,Yassine Kechta,9.217917
+2023-08-13 00:38:46.413,Le Havre,2,Yassine Kechta,Daler Kuzyaev,9.17878
+2023-08-13 00:38:58.672,Le Havre,1,Arthur Desmas,Issa Soumaré,63.67935
+2023-08-13 00:39:01.381,Le Havre,1,Issa Soumaré,Nabil Alioui,14.989663
+2023-08-13 00:39:03.364,Montpellier,1,Christopher Jullien,Akor Jerome Adams,17.274258
+2023-08-13 00:39:05.532,Le Havre,1,Oussama Targhalline,Rassoul N'Diaye,12.420145
+2023-08-13 00:39:07.900,Le Havre,1,Rassoul N'Diaye,Nabil Alioui,13.438005
+2023-08-13 00:39:09.199,Montpellier,1,Falaye Sacko,Téji Savanier,13.931619
+2023-08-13 00:39:10.658,Le Havre,1,Rassoul N'Diaye,Oussama Targhalline,7.2249565
+2023-08-13 00:39:16.519,Le Havre,1,Oussama Targhalline,Rassoul N'Diaye,16.760967
+2023-08-13 00:39:19.419,Le Havre,1,Rassoul N'Diaye,Gautier Lloris,15.401948
+2023-08-13 00:39:22.908,Le Havre,1,Gautier Lloris,Nabil Alioui,36.669468
+2023-08-13 00:39:24.249,Montpellier,1,Christopher Jullien,Falaye Sacko,9.433981
+2023-08-13 00:39:26.189,Montpellier,1,Falaye Sacko,Moussa Al Tamari,1.8439089
+2023-08-13 00:39:27.958,Montpellier,1,Falaye Sacko,Akor Jerome Adams,31.277147
+2023-08-13 00:39:30.778,Montpellier,1,Akor Jerome Adams,Moussa Al Tamari,41.602524
+2023-08-13 00:39:34.607,Montpellier,1,Moussa Al Tamari,Wahbi Khazri,19.339596
+2023-08-13 00:39:44.380,Montpellier,1,Issiaga Sylla,Joris Chotard,11.896218
+2023-08-13 00:39:46.325,Montpellier,1,Joris Chotard,Issiaga Sylla,10.29563
+2023-08-13 00:39:48.425,Montpellier,1,Issiaga Sylla,Akor Jerome Adams,39.98925
+2023-08-13 00:40:19.346,Le Havre,1,Arthur Desmas,Josue Casimir,70.033775
+2023-08-13 00:40:29.907,Montpellier,1,Falaye Sacko,Jordan Ferri,28.877846
+2023-08-13 00:40:34.470,Le Havre,1,Daler Kuzyaev,Issa Soumaré,24.318718
+2023-08-13 00:40:36.096,Montpellier,1,Christopher Jullien,Akor Jerome Adams,58.914345
+2023-08-13 00:40:44.283,Montpellier,1,Akor Jerome Adams,Téji Savanier,13.290975
+2023-08-13 00:40:45.504,Montpellier,1,Téji Savanier,Akor Jerome Adams,12.924783
+2023-08-13 00:40:45.565,Montpellier,2,Benjamin Lecomte,Moussa Al Tamari,64.50613
+2023-08-13 00:40:48.159,Le Havre,1,Oussama Targhalline,Rassoul N'Diaye,12.209013
+2023-08-13 00:40:48.631,Le Havre,2,Antoine Joujou,Andy Élysée Logbo,27.58623
+2023-08-13 00:40:48.870,Le Havre,1,Rassoul N'Diaye,Oussama Targhalline,5.147815
+2023-08-13 00:40:51.232,Le Havre,1,Oussama Targhalline,Nabil Alioui,21.22852
+2023-08-13 00:40:51.250,Montpellier,2,Boubakar Kouyate,Sepe Elye Wahi,33.41811
+2023-08-13 00:40:53.334,Le Havre,2,Yassine Kechta,Oussama Targhalline,13.024976
+2023-08-13 00:40:54.686,Le Havre,2,Oussama Targhalline,Antoine Joujou,37.884167
+2023-08-13 00:40:55.697,Le Havre,1,Nabil Alioui,Issa Soumaré,25.314423
+2023-08-13 00:40:58.909,Montpellier,2,Boubakar Kouyate,Benjamin Lecomte,22.22521
+2023-08-13 00:41:00.825,Montpellier,2,Benjamin Lecomte,Moussa Al Tamari,62.13767
+2023-08-13 00:41:05.346,Montpellier,1,Benjamin Lecomte,Issiaga Sylla,42.596245
+2023-08-13 00:41:09.502,Montpellier,1,Issiaga Sylla,Wahbi Khazri,6.6
+2023-08-13 00:41:13.405,Montpellier,1,Wahbi Khazri,Téji Savanier,13.644413
+2023-08-13 00:41:13.902,Le Havre,2,Yoann Salmier,Yassine Kechta,15.692355
+2023-08-13 00:41:15.762,Montpellier,1,Téji Savanier,Issiaga Sylla,18.455622
+2023-08-13 00:41:18.299,Le Havre,2,Yassine Kechta,Andy Élysée Logbo,8.324061
+2023-08-13 00:41:18.629,Montpellier,1,Issiaga Sylla,Téji Savanier,8.481155
+2023-08-13 00:41:21.403,Montpellier,1,Téji Savanier,Moussa Al Tamari,56.78072
+2023-08-13 00:41:22.156,Montpellier,2,Joris Chotard,Sepe Elye Wahi,67.218
+2023-08-13 00:41:27.818,Le Havre,1,Arthur Desmas,Daler Kuzyaev,21.85635
+2023-08-13 00:41:31.870,Montpellier,2,Sepe Elye Wahi,Leo Leroy,19.573452
+2023-08-13 00:41:32.349,Le Havre,1,Daler Kuzyaev,Josue Casimir,22.143396
+2023-08-13 00:41:38.159,Le Havre,1,Josue Casimir,Oussama Targhalline,10.10198
+2023-08-13 00:41:39.124,Le Havre,1,Oussama Targhalline,Josue Casimir,9.667471
+2023-08-13 00:41:40.752,Le Havre,1,Josue Casimir,Rassoul N'Diaye,11.229425
+2023-08-13 00:41:43.393,Le Havre,1,Rassoul N'Diaye,Gautier Lloris,19.544052
+2023-08-13 00:41:46.467,Le Havre,1,Gautier Lloris,Rassoul N'Diaye,9.6208105
+2023-08-13 00:41:48.252,Montpellier,1,Joris Chotard,Téji Savanier,21.475567
+2023-08-13 00:41:50.128,Montpellier,1,Téji Savanier,Wahbi Khazri,19.418034
+2023-08-13 00:41:50.959,Le Havre,2,Arthur Desmas,Gautier Lloris,19.108376
+2023-08-13 00:41:56.182,Montpellier,1,Wahbi Khazri,Falaye Sacko,29.455051
+2023-08-13 00:41:58.789,Montpellier,1,Falaye Sacko,Moussa Al Tamari,15.3222065
+2023-08-13 00:41:59.887,Montpellier,1,Moussa Al Tamari,Falaye Sacko,12.515989
+2023-08-13 00:42:01.346,Le Havre,2,Gautier Lloris,Samuel Grandsir,24.605082
+2023-08-13 00:42:02.809,Montpellier,1,Falaye Sacko,Joris Chotard,23.101948
+2023-08-13 00:42:03.807,Le Havre,2,Samuel Grandsir,Arthur Desmas,23.853722
+2023-08-13 00:42:07.925,Le Havre,2,Arthur Desmas,Gautier Lloris,22.177465
+2023-08-13 00:42:12.803,Le Havre,2,Gautier Lloris,Oussama Targhalline,9.774457
+2023-08-13 00:42:14.769,Le Havre,2,Oussama Targhalline,Yassine Kechta,11.412712
+2023-08-13 00:42:19.054,Le Havre,2,Yassine Kechta,Abdoulaye Touré,25.12867
+2023-08-13 00:42:25.347,Le Havre,2,Abdoulaye Touré,Yassine Kechta,13.994642
+2023-08-13 00:42:28.095,Le Havre,2,Yassine Kechta,Andy Élysée Logbo,33.142117
+2023-08-13 00:42:34.725,Le Havre,1,Arthur Desmas,Issa Soumaré,64.11372
+2023-08-13 00:42:43.597,Le Havre,1,Daler Kuzyaev,Oussama Targhalline,16.678429
+2023-08-13 00:42:44.168,Montpellier,2,Benjamin Lecomte,Sepe Elye Wahi,75.02333
+2023-08-13 00:42:51.685,Le Havre,2,Gautier Lloris,Arthur Desmas,8.920202
+2023-08-13 00:42:53.694,Le Havre,2,Arthur Desmas,Yoann Salmier,26.29753
+2023-08-13 00:43:01.437,Le Havre,2,Yoann Salmier,Oussama Targhalline,13.049521
+2023-08-13 00:43:07.610,Le Havre,2,Oussama Targhalline,Abdoulaye Touré,14.812158
+2023-08-13 00:43:09.969,Le Havre,2,Abdoulaye Touré,Samuel Grandsir,13.7411785
+2023-08-13 00:43:11.060,Le Havre,2,Samuel Grandsir,Josue Casimir,14.541664
+2023-08-13 00:43:13.338,Le Havre,2,Josue Casimir,Samuel Grandsir,14.8556385
+2023-08-13 00:43:48.723,Montpellier,1,Falaye Sacko,Téji Savanier,23.43075
+2023-08-13 00:43:52.434,Le Havre,2,Samuel Grandsir,Abdoulaye Touré,25.767033
+2023-08-13 00:43:57.698,Le Havre,2,Oussama Targhalline,Antoine Joujou,6.129437
+2023-08-13 00:43:59.701,Le Havre,2,Antoine Joujou,Andy Élysée Logbo,12.410076
+2023-08-13 00:44:01.120,Le Havre,2,Andy Élysée Logbo,Yoann Salmier,4.920366
+2023-08-13 00:44:05.610,Le Havre,1,Arthur Desmas,Nabil Alioui,73.35721
+2023-08-13 00:44:08.864,Montpellier,1,Falaye Sacko,Joris Chotard,11.977479
+2023-08-13 00:44:11.559,Le Havre,1,Daler Kuzyaev,Nabil Alioui,20.695894
+2023-08-13 00:44:12.273,Montpellier,1,Boubakar Kouyate,Akor Jerome Adams,38.717697
+2023-08-13 00:44:15.631,Le Havre,1,Arouna Sangante,Oussama Targhalline,6.303174
+2023-08-13 00:44:16.254,Le Havre,1,Oussama Targhalline,Issa Soumaré,16.263456
+2023-08-13 00:44:22.852,Montpellier,1,Issiaga Sylla,Benjamin Lecomte,24.5204
+2023-08-13 00:44:26.884,Montpellier,1,Benjamin Lecomte,Moussa Al Tamari,57.127316
+2023-08-13 00:44:30.003,Le Havre,1,Josue Casimir,Nabil Alioui,17.780045
+2023-08-13 00:44:32.323,Montpellier,1,Joris Chotard,Akor Jerome Adams,50.859905
+2023-08-13 00:44:41.051,Le Havre,2,Samuel Grandsir,Antoine Joujou,33.29159
+2023-08-13 00:44:49.444,Le Havre,2,Josue Casimir,Samuel Grandsir,8.947066
+2023-08-13 00:44:50.776,Le Havre,2,Samuel Grandsir,Josue Casimir,9.876234
+2023-08-13 00:44:55.079,Le Havre,2,Josue Casimir,Samuel Grandsir,9.712878
+2023-08-13 00:45:09.909,Le Havre,1,Arouna Sangante,Nabil Alioui,57.734653
+2023-08-13 00:45:13.446,Le Havre,1,Nabil Alioui,Issa Soumaré,15.966528
+2023-08-13 00:45:15.612,Le Havre,1,Issa Soumaré,Nabil Alioui,8.9196415
+2023-08-13 00:45:22.438,Montpellier,1,Jordan Ferri,Joris Chotard,10.917875
+2023-08-13 00:45:23.889,Montpellier,1,Joris Chotard,Téji Savanier,3.9623225
+2023-08-13 00:45:39.676,Montpellier,1,Benjamin Lecomte,Boubakar Kouyate,16.571058
+2023-08-13 00:45:46.028,Montpellier,1,Boubakar Kouyate,Christopher Jullien,15.533191
+2023-08-13 00:45:49.208,Montpellier,1,Christopher Jullien,Jordan Ferri,36.336895
+2023-08-13 00:46:03.148,Montpellier,2,Sepe Elye Wahi,Joris Chotard,11.00409
+2023-08-13 00:46:05.757,Montpellier,2,Joris Chotard,Falaye Sacko,27.066769
+2023-08-13 00:46:08.715,Montpellier,2,Falaye Sacko,Christopher Jullien,12.124768
+2023-08-13 00:46:11.207,Montpellier,2,Christopher Jullien,Boubakar Kouyate,23.093288
+2023-08-13 00:46:13.849,Montpellier,2,Boubakar Kouyate,Sepe Elye Wahi,51.13531
+2023-08-13 00:46:16.968,Montpellier,2,Sepe Elye Wahi,Arnaud Nordin,8.798295
+2023-08-13 00:46:18.501,Le Havre,1,Loïc Négo,Issa Soumaré,28.62761
+2023-08-13 00:46:21.352,Montpellier,2,Arnaud Nordin,Sepe Elye Wahi,38.643497
+2023-08-13 00:46:30.002,Montpellier,2,Sepe Elye Wahi,Lucas Mincarelli Davin,20.67293
+2023-08-13 00:46:31.715,Montpellier,1,Benjamin Lecomte,Jordan Ferri,18.023596
+2023-08-13 00:46:32.552,Montpellier,2,Lucas Mincarelli Davin,Joris Chotard,18.681808
+2023-08-13 00:46:34.742,Montpellier,2,Joris Chotard,Boubakar Kouyate,14.770917
+2023-08-13 00:46:36.225,Montpellier,1,Jordan Ferri,Téji Savanier,27.049583
+2023-08-13 00:46:38.940,Montpellier,2,Boubakar Kouyate,Khalil Fayad,18.006943
+2023-08-13 00:46:40.020,Montpellier,2,Khalil Fayad,Boubakar Kouyate,16.127617
+2023-08-13 00:46:42.611,Montpellier,2,Boubakar Kouyate,Moussa Al Tamari,62.768223
+2023-08-13 00:46:42.703,Montpellier,1,Téji Savanier,Joris Chotard,42.54703
+2023-08-13 00:46:46.672,Montpellier,1,Joris Chotard,Falaye Sacko,11.806778
+2023-08-13 00:46:51.265,Montpellier,1,Falaye Sacko,Christopher Jullien,19.8517
+2023-08-13 00:46:53.967,Montpellier,1,Christopher Jullien,Boubakar Kouyate,21.867327
+2023-08-13 00:46:56.177,Montpellier,1,Boubakar Kouyate,Issiaga Sylla,34.22353
+2023-08-13 00:46:59.432,Montpellier,1,Issiaga Sylla,Wahbi Khazri,19.066463
+2023-08-13 00:47:00.551,Le Havre,1,Oussama Targhalline,Issa Soumaré,29.757183
+2023-08-13 00:47:02.663,Montpellier,1,Boubakar Kouyate,Téji Savanier,9.347727
+2023-08-13 00:47:05.014,Montpellier,1,Téji Savanier,Joris Chotard,8.263777
+2023-08-13 00:47:06.138,Montpellier,1,Joris Chotard,Téji Savanier,6.449806
+2023-08-13 00:47:08.514,Montpellier,1,Téji Savanier,Falaye Sacko,37.401203
+2023-08-13 00:47:11.493,Le Havre,2,Arthur Desmas,Abdoulaye Touré,60.7126
+2023-08-13 00:47:13.203,Montpellier,1,Falaye Sacko,Jordan Ferri,14.200352
+2023-08-13 00:47:13.962,Montpellier,1,Jordan Ferri,Joris Chotard,18.361917
+2023-08-13 00:47:15.694,Le Havre,2,Yoann Salmier,Oussama Targhalline,18.489456
+2023-08-13 00:47:16.324,Montpellier,1,Joris Chotard,Issiaga Sylla,53.646435
+2023-08-13 00:47:16.895,Montpellier,2,Leo Leroy,Arnaud Nordin,11.353414
+2023-08-13 00:47:23.717,Montpellier,1,Issiaga Sylla,Jordan Ferri,10.401923
+2023-08-13 00:47:24.510,Montpellier,1,Jordan Ferri,Issiaga Sylla,22.743132
+2023-08-13 00:47:58.853,Le Havre,2,Arthur Desmas,Antoine Joujou,71.667076
+2023-08-13 00:48:02.669,Montpellier,1,Téji Savanier,Christopher Jullien,38.212303
+2023-08-13 00:48:06.989,Montpellier,1,Joris Chotard,Wahbi Khazri,13.520355
+2023-08-13 00:48:09.374,Montpellier,2,Lucas Mincarelli Davin,Khalil Fayad,15.976233
+2023-08-13 00:48:10.307,Montpellier,2,Khalil Fayad,Arnaud Nordin,5.420332
+2023-08-13 00:48:11.247,Montpellier,2,Arnaud Nordin,Sepe Elye Wahi,19.902262
+2023-08-13 00:48:16.961,Montpellier,2,Khalil Fayad,Leo Leroy,10.793516
+2023-08-13 00:48:21.951,Le Havre,2,Abdoulaye Touré,Samuel Grandsir,13.647344
+2023-08-13 00:48:46.803,Le Havre,1,Arthur Desmas,Issa Soumaré,65.45166
+2023-08-13 00:48:49.840,Montpellier,1,Christopher Jullien,Téji Savanier,4.414748
+2023-08-13 00:48:51.311,Le Havre,1,Daler Kuzyaev,Rassoul N'Diaye,4.804165
+2023-08-13 00:48:54.681,Montpellier,1,Jordan Ferri,Issiaga Sylla,39.812813
+2023-08-13 00:48:59.274,Montpellier,1,Issiaga Sylla,Jordan Ferri,8.429116
+2023-08-13 00:48:59.564,Le Havre,2,Yoann Salmier,Oussama Targhalline,15.246311
+2023-08-13 00:49:02.456,Montpellier,1,Jordan Ferri,Téji Savanier,22.1199
+2023-08-13 00:49:03.252,Le Havre,2,Oussama Targhalline,Josue Casimir,20.448227
+2023-08-13 00:49:04.943,Le Havre,1,Yoann Salmier,Rassoul N'Diaye,13.263861
+2023-08-13 00:49:07.328,Le Havre,2,Josue Casimir,Oussama Targhalline,9.759098
+2023-08-13 00:49:09.036,Le Havre,1,Rassoul N'Diaye,Issa Soumaré,36.300552
+2023-08-13 00:49:09.947,Le Havre,2,Oussama Targhalline,Josue Casimir,17.622997
+2023-08-13 00:49:10.936,Montpellier,1,Boubakar Kouyate,Christopher Jullien,22.203604
+2023-08-13 00:49:13.183,Le Havre,2,Josue Casimir,Samuel Grandsir,14.276204
+2023-08-13 00:49:13.541,Montpellier,1,Christopher Jullien,Joris Chotard,12.02539
+2023-08-13 00:49:15.227,Montpellier,1,Joris Chotard,Jordan Ferri,4.1146083
+2023-08-13 00:49:15.961,Le Havre,2,Samuel Grandsir,Abdoulaye Touré,12.270289
+2023-08-13 00:49:19.775,Montpellier,1,Issiaga Sylla,Téji Savanier,11.860017
+2023-08-13 00:49:21.980,Montpellier,1,Téji Savanier,Wahbi Khazri,34.839775
+2023-08-13 00:49:22.985,Montpellier,2,Benjamin Lecomte,Sepe Elye Wahi,33.12099
+2023-08-13 00:49:25.608,Montpellier,2,Sepe Elye Wahi,Leo Leroy,16.860012
+2023-08-13 00:49:26.299,Le Havre,1,Gautier Lloris,Daler Kuzyaev,9.170606
+2023-08-13 00:49:27.774,Montpellier,2,Leo Leroy,Falaye Sacko,16.179308
+2023-08-13 00:49:29.542,Le Havre,1,Daler Kuzyaev,Josue Casimir,24.932709
+2023-08-13 00:49:31.234,Le Havre,1,Josue Casimir,Nabil Alioui,33.983818
+2023-08-13 00:49:36.096,Montpellier,2,Falaye Sacko,Moussa Al Tamari,15.700318
+2023-08-13 00:49:38.026,Montpellier,2,Moussa Al Tamari,Falaye Sacko,15.111916
+2023-08-13 00:49:39.267,Montpellier,1,Christopher Jullien,Falaye Sacko,9.667471
+2023-08-13 00:49:40.069,Montpellier,2,Falaye Sacko,Joris Chotard,30.768816
+2023-08-13 00:49:42.781,Montpellier,1,Falaye Sacko,Téji Savanier,40.0065
+2023-08-13 00:49:43.432,Montpellier,2,Joris Chotard,Arnaud Nordin,44.511234
+2023-08-13 00:49:45.801,Le Havre,2,Yoann Salmier,Antoine Joujou,10.893117
+2023-08-13 00:49:49.089,Montpellier,2,Lucas Mincarelli Davin,Boubakar Kouyate,17.340126
+2023-08-13 00:50:00.090,Le Havre,2,Yoann Salmier,Arouna Sangante,25.400787
+2023-08-13 00:50:06.150,Le Havre,2,Arouna Sangante,Samuel Grandsir,57.08108
+2023-08-13 00:50:12.066,Montpellier,2,Falaye Sacko,Moussa Al Tamari,31.575306
+2023-08-13 00:50:18.013,Le Havre,1,Arthur Desmas,Issa Soumaré,60.627388
+2023-08-13 00:50:21.202,Montpellier,1,Christopher Jullien,Moussa Al Tamari,16.101242
+2023-08-13 00:50:22.830,Montpellier,1,Moussa Al Tamari,Téji Savanier,9.259049
+2023-08-13 00:50:24.097,Montpellier,2,Moussa Al Tamari,Khalil Fayad,21.213203
+2023-08-13 00:50:26.188,Le Havre,2,Abdoulaye Touré,Samuel Grandsir,22.882744
+2023-08-13 00:50:27.112,Montpellier,1,Téji Savanier,Moussa Al Tamari,1.2041595
+2023-08-13 00:50:28.409,Le Havre,2,Samuel Grandsir,Oussama Targhalline,16.122654
+2023-08-13 00:50:32.095,Montpellier,1,Falaye Sacko,Moussa Al Tamari,16.9
+2023-08-13 00:51:26.385,Montpellier,1,Jordan Ferri,Wahbi Khazri,39.96098
+2023-08-13 00:51:41.264,Le Havre,2,Arouna Sangante,Andy Élysée Logbo,54.108227
+2023-08-13 00:51:47.880,Montpellier,2,Falaye Sacko,Christopher Jullien,16.717056
+2023-08-13 00:51:50.846,Montpellier,2,Christopher Jullien,Boubakar Kouyate,17.438463
+2023-08-13 00:51:56.920,Montpellier,2,Boubakar Kouyate,Christopher Jullien,22.232634
+2023-08-13 00:51:58.203,Le Havre,1,Arthur Desmas,Issa Soumaré,57.21547
+2023-08-13 00:52:01.596,Montpellier,2,Christopher Jullien,Falaye Sacko,16.046183
+2023-08-13 00:52:01.675,Montpellier,1,Christopher Jullien,Akor Jerome Adams,26.931395
+2023-08-13 00:52:40.510,Montpellier,1,Jordan Ferri,Wahbi Khazri,9.94887
+2023-08-13 00:52:42.341,Montpellier,1,Wahbi Khazri,Joris Chotard,12.541929

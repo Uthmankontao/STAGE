@@ -1,0 +1,74 @@
+Données disponibles
+
+SkillCorner Open Data -> 9 matches of broadcast tracking data collected 
+by SkillCorner.
+
+https://github.com/SkillCorner/opendata
+https://github.com/SkillCorner/skillcorner-py
+
+StatsBomb Open Data -> données events
+https://github.com/statsbomb/open-data
+https://abhijithchandradas.medium.com/getting-started-with-soccer-analytics-with-event-data-6ecd3143e78
+
+Metrica Sports Sample Data -> 3 matches avec synchronisation tracking / 
+events
+https://github.com/metrica-sports/sample-data
+https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking
+(tutos vidéo)
+https://spatialsocceranalysis.medium.com/exploring-event-and-tracking-data-using-metrica-sports-open-data-part-iii-average-positions-36cf776a907a
+
+StatPerform (opta data)
+Définition des events : https://www.statsperform.com/opta-event-definitions/
+Pas trouvé de données en open data
+
+---------------------------------------------------
+
+
+Articles
+
+https://www.sciencedirect.com/science/article/pii/S2773186323000282
+https://www.nature.com/articles/s41598-022-19948-1 # c'est l'article sur lequel j'ai travaillé
+https://www.nature.com/articles/s41597-019-0247-7?fromPaywallRec=false
+https://dspace.mit.edu/bitstream/handle/1721.1/100607/932225217-MIT.pdf?sequence=1
+https://www.researchgate.net/publication/327271559_Play_Recognition_Using_Soccer_Tracking_Data_Based_on_Machine_Learning_The_21st_International_Conference_on_Network-Based_Information_Systems_NBiS-2018
+https://arxiv.org/abs/2109.04720
+https://statsbomb.com/wp-content/uploads/2022/09/Michael-Pulis-and-Josef-Bajada-%E2%80%93-Reinforcement-Learning-For-Football-Player-Decision-Making-Analysis-1.pdf
+https://www.researchgate.net/profile/William-Spearman/publication/334849056_Quantifying_Pitch_Control/links/5d434d0aa6fdcc370a742d04/Quantifying-Pitch-Control.pdf
+https://arxiv.org/pdf/1802.07127.pdf
+https://arxiv.org/abs/2402.06820 (LLM)
+
+------------------------------------------------------
+
+
+Vidéos
+https://www.youtube.com/watch?v=fYqEnoOV9Po
+https://www.youtube.com/watch?v=VX3T-4lB2o0
+https://www.youtube.com/@friendsoftracking755/videos
+
+
+----------------------------------------------------
+
+Tâches :
+
+
+Désigner chef(fe(s))
+
+Lire méthodologie agile + mettre en place trello
+
+Importer les données :
+  - SkillCorner
+  - StatsBomb
+  - Metrica
+  - Le HAC
+  - ANR
+
+  -> Format Pivot : tracking et event
+  -> Moulinettes ?
+
+  Visualisation des données matchs temporel avec slider (avec liste 
+joueurs) :
+  - tracking + events
+
+  Visu joueurs + visu équipe
+
+  Calcul stats, niveau joueur / match

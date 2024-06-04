@@ -1,0 +1,29 @@
+# Nous allons créer des listes pour stocker les données
+timestamp  = []
+id_joueurs = []
+equipes_joueurs = []
+positions_x = []
+positions_y = []
+
+# J'ai vu qu'il faut utiliser une expréssion régulière pour analyser les données
+motif_donnees = re.compile(r"(\d+);.*?:(\d),(\d+),(\d+),(\d+\.\d+),(\d+\.\d+)")
+
+# On va itérer sur chaque ligne du dataset pour extraire les informations 
+for index, ligne in data1_brute.iterrows():
+    correspondances = motif_donnees.findall(ligne[0])
+    for correspondance in correspondances:
+        timestamp.append(int(correspondance[0]))
+        equipes_joueurs.append(int(correspondance[1]))
+        id_joueurs.append(int(correspondance[2]))
+        positions_x.append(float(correspondance[4]))
+        positions_y.append(float(correspondance[5]))
+
+data1_tracking = pd.DataFrame({
+    'Timestamp': timestamp,
+    'Equipe': equipes_joueurs,
+    'ID_Joueur': id_joueurs,
+    'Position_X': positions_x,
+    'Position_Y': positions_y
+})
+
+data1_tracking
