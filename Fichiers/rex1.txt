@@ -212,3 +212,149 @@ import plotly.graph_objs as go
 
     # Appel de la fonction pour afficher le réseau de passes
     visualize_pass_network(player_positions_df, passes_df)
+
+
+import plotly.graph_objs as go
+
+# Dictionnaire des positions en fonction des rôles
+role_positions = {
+    "Gardien": [(3, 40)],
+    "Défenseur": [(12, 30), (12, 50), (25, 10), (25, 70)],
+    "Milieu de terrain": [(50, 40), (80, 20), (80, 60)],
+    "Attaquant": [(100, 10), (100, 70), (110, 40)]
+}
+
+# Fonction pour obtenir la position en fonction du rôle et de l'index
+def get_position(role, index, role_positions, role_count):
+    if role in role_positions and index < len(role_positions[role]):
+        return role_positions[role][index]
+    else:
+        # Gérer les excédents en attribuant des positions restantes
+        if role == "Défenseur":
+            role = "Milieu de terrain"
+        elif role == "Milieu de terrain":
+            role = "Attaquant"
+        elif role == "Attaquant":
+            role = "Défenseur"
+        return get_position(role, role_count[role], role_positions, role_count)
+
+def visualize_pass_network(player_positions_df, passes_df):
+    for period in [1, 2]:
+        # Filtrer les données pour la période actuelle
+        passes_df_period = passes_df[passes_df['period'] == period]
+
+        # Convertir les données de la dataframe en dictionnaires
+        role_count = {"Défenseur": 0, "Milieu de terrain": 0, "Attaquant": 0, "Gardien": 0}
+        players_positions = {}
+
+        for index, row in player_positions_df.iterrows():
+            role = row['role']
+            position = get_position(role, role_count[role], role_positions, role_count)
+            role_count[role] += 1
+            players_positions[row['player.name']] = position
+
+        # Calculer les informations des passes
+        pass_info = passes_df_period.groupby(['player.name']).agg(
+            num_passes=('pass.length', 'size'),
+            avg_pass_length=('pass.length', 'mean')
+        ).reset_index()
+
+        pass_info_received = passes_df_period.groupby(['pass.recipient.name']).agg(
+            num_passes_received=('pass.length', 'size'),
+            avg_pass_length_received=('pass.length', 'mean')
+        ).reset_index()
+
+        # Créer des dictionnaires pour les infos de passes
+        pass_info_dict = {
+            row['player.name']: {
+                'num_passes': row['num_passes'],
+                'avg_pass_length': row['avg_pass_length']
+            }
+            for index, row in pass_info.iterrows()
+        }
+
+        pass_info_received_dict = {
+            row['pass.recipient.name']: {
+                'num_passes_received': row['num_passes_received'],
+                'avg_pass_length_received': row['avg_pass_length_received']
+            }
+            for index, row in pass_info_received.iterrows()
+        }
+
+        # Tracer le terrain de football
+        fig = go.Figure()
+
+        # Ajouter des formes pour représenter le terrain de football
+        terrain_shapes = [
+            dict(type="rect", x0=0, y0=0, x1=120, y1=80, line=dict(color="Black")),
+            dict(type="line", x0=60, y0=0, x1=60, y1=80, line=dict(color="Black", dash="dot")),
+            dict(type="rect", x0=0, y0=18, x1=18, y1=62, line=dict(color="Black")),
+            dict(type="rect", x0=102, y0=18, x1=120, y1=62, line=dict(color="Black")),
+            dict(type="rect", x0=0, y0=30, x1=5.5, y1=50, line=dict(color="Black")),
+            dict(type="rect", x0=114.5, y0=30, x1=120, y1=50, line=dict(color="Black")),
+            dict(type="rect", x0=0, y0=36, x1=2, y1=44, line=dict(color="Black")),
+            dict(type="rect", x0=118, y0=36, x1=120, y1=44, line=dict(color="Black")),
+            dict(type="circle", xref="x", yref="y", x0=50.4, y0=30.4, x1=69.6, y1=49.6, line_color="Black"),
+        ]
+        fig.update_layout(shapes=terrain_shapes)
+
+        # Ajouter les joueurs sur le terrain avec les infos de passes
+        for player, pos in players_positions.items():
+            passes_from_player = pass_info_dict.get(player, {'num_passes': 0, 'avg_pass_length': 0})
+            passes_to_player = pass_info_received_dict.get(player, {'num_passes_received': 0, 'avg_pass_length_received': 0})
+
+            hover_text = (
+                f"Joueur: {player}<br>"
+                f"Nombre de passes effectuées: {passes_from_player['num_passes']}<br>"
+                f"Longueur moyenne des passes effectuées: {passes_from_player['avg_pass_length']:.2f} m<br>"
+                f"Nombre de passes reçues: {passes_to_player['num_passes_received']}<br>"
+                f"Longueur moyenne des passes reçues: {passes_to_player['avg_pass_length_received']:.2f} m"
+            )
+
+            fig.add_trace(go.Scatter(
+                x=[pos[0]],
+                y=[pos[1]],
+                mode='markers+text',
+                text=[player],
+                textposition="top center",
+                marker=dict(size=10, color='blue'),
+                hovertext=hover_text,
+                hoverinfo="text"
+            ))
+
+        # Calculer le nombre et la longueur moyenne des passes entre les joueurs
+        passes_between_players = passes_df_period.groupby(['player.name', 'pass.recipient.name']).agg(
+            num_passes=('pass.length', 'size'),
+            avg_pass_length=('pass.length', 'mean')
+        ).reset_index()
+
+        # Ajouter les passes
+        for row in passes_between_players.itertuples():
+            if row[1] in players_positions and row[2] in players_positions:
+                start = players_positions[row[1]]
+                end = players_positions[row[2]]
+                hover_text = (
+                    f"Passes de {row[1]} à {row[2]}<br>"
+                    f"Nombre de passes: {row.num_passes}<br>"
+                    f"Longueur moyenne des passes: {row.avg_pass_length:.2f} m"
+                )
+                fig.add_trace(go.Scatter(
+                    x=[start[0], end[0]],
+                    y=[start[1], end[1]],
+                    mode='lines',
+                    line=dict(width=2, color='red'),
+                    hovertext=hover_text,
+                    hoverinfo="text"
+                ))
+
+        fig.update_layout(
+            title=f"Réseau de passes sur un terrain de football - Période {period}",
+            xaxis=dict(range=[0, 120], showgrid=False, zeroline=False),
+            yaxis=dict(range=[0, 80], showgrid=False, zeroline=False),
+            width=800,
+            height=600
+        )
+        fig.show()
+
+# Appel de la fonction pour créer les figures du réseau de passes pour chaque période
+visualize_pass_network(df_positions, df_passes)
