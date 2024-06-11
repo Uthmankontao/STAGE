@@ -1,6 +1,6 @@
 Rapport de Stage 
 Ousmane Kontao 
- Analyse des données évents du Havre et utilisation des données de tracking 
+Analyse des données évents du Havre et utilisation des données de tracking 
 Introduction
 Ce rapport détaille mon expérience de stage au sein du département de physique, où j'ai travaillé sur l'analyse des données d'événements et de tracking pour la détection automatique d'événements de jeu. Mon stage s'est déroulé sur une période de huit semaines, d'avril à juin 2024.
 Les principaux objectifs de mon stage 
@@ -18,6 +18,10 @@ Développement d'un Algorithme pour la Possession du Ballon
 J'ai travaillé sur la création d'un algorithme pour déterminer la possession du ballon sur chaque frame en utilisant les données de tracking. L'algorithme utilise des zones de possession (PZ) définies autour de chaque joueur. Si le ballon entre dans cette zone, le joueur est considéré comme ayant la possession. Les zones de duel (DZ) identifient quand deux joueurs sont en compétition pour le ballon.
 L'algorithme vérifie chaque image pour détecter les conditions de possession ou de duel et enregistre les données telles que la distance des joueurs au ballon et les mouvements du ballon.
 Visualisations
+Visualisation du heatmap
+On commence par filtrer les données pour chaque équipe et la période choisie. Les passes sans coordonnées de fin sont exclues. Ensuite, une figure avec deux graphiques côte à côte est créée. La taille de la figure est définie et l'espacement entre les graphiques est ajusté.
+Pour chaque équipe, si les données ne sont pas vides, une carte de chaleur est créée en utilisant la fonction sns.kdeplot. Cette fonction montre la densité des passes sur le terrain. Les cartes de chaleur utilisent les couleurs bleue pour la première équipe et rouge pour la deuxième. Chaque graphique reçoit un titre indiquant l'équipe et la période.
+Les étiquettes des axes sont définies pour montrer les positions X et Y sur le terrain. Plusieurs lignes sont tracées pour représenter les éléments clés du terrain : le contour du terrain, la ligne médiane, une ligne médiane transversale et les zones de but. Enfin, la figure est affichée à l'écran.
 Visualisation des Passes d'un Joueur
 Pour tracer les passes effectuées par un joueur particulier d'une équipe pendant une période de jeu spécifique, on filtre les données pour ne retenir que les passes de ce joueur, puis on dessine des lignes avec des flèches sur le terrain pour indiquer la direction et la destination de chaque passe. Lorsque l'utilisateur survole ces lignes avec la souris, des informations supplémentaires s'affichent, telles que le nom du joueur et les coordonnées de départ et d'arrivée de chaque passe. 
 Visualisation des Passes entre Joueurs
@@ -26,6 +30,33 @@ Visualisation des Tirs
 Ce graphique représente le terrain de football et trace les tirs effectués par les équipes à domicile et à l'extérieur pendant une période de jeu donnée. On filtre les données pour sélectionner les tirs de chaque équipe, puis on trace des lignes avec des flèches colorées pour indiquer le résultat de chaque tir (but, tir sauvé, manqué, bloqué). Des informations détaillées sur chaque tir, comme le nom du joueur et les coordonnées du tir, s'affichent lorsque l'utilisateur survole les lignes. Le graphique final montre les tirs avec un titre indiquant les noms des équipes et la période de jeu.
 Visualisation du Réseau de Passes
 On commence par configurer le terrain, puis on filtre les données pour obtenir les positions des joueurs et les passes effectuées entre eux. Le code trace des lignes entre les positions des joueurs pour représenter les passes, ajoutant des informations sur le nombre de passes et la longueur moyenne de chaque passe au survol des lignes. Le graphique final affiche un titre indiquant qu'il s'agit du réseau de passes sur le terrain de football.
+Visualisation des performances individuelle
+L'algorithme evaluate_performance permet d'évaluer les performances des joueurs de football en fonction de leur position sur le terrain.
+Pour les défenseurs, on calcule :
+    Le nombre de passes faites.
+    La longueur moyenne des passes.
+    Le nombre de duels.
+    Le nombre de duels gagnés.
+    Le nombre de duels perdus.
+    Le nombre d'interceptions réussies.
+
+Pour les milieux de terrain, on calcule :
+    Le nombre de passes faites.
+    La longueur moyenne des passes.
+    Le nombre de passes progressives.
+    Le nombre de dribbles réussis.
+    Le nombre de ballons interceptés avec succès.
+
+Pour les attaquants, on calcule :
+    Le nombre de passes faites.
+    La longueur moyenne des passes.
+    Le nombre de tirs.
+    Le nombre de buts.
+    Le nombre de tirs cadrés.
+    Le nombre de tirs non cadrés.
+    Le nombre de dribbles réussis.
+Si la position ne correspond à aucune des catégories ci-dessus, un tableau vide est retourné.
+Pour afficher les performances des joueurs, on utilise la fonction display_player_performance. Cette fonction filtre les données selon la position et les joueurs choisis, puis transforme les données pour créer un graphique radar. Un tableau interactif et un graphique radar sont ensuite affichés dans une application Dash.
 Conclusion
 Ce stage m'a permis de développer des compétences en analyse de données et en visualisation, tout en appliquant des techniques avancées d'algorithmique pour la détection automatique des événements. J'ai également renforcé mes capacités à lire et interpréter des articles scientifiques pour en tirer des solutions pratiques. Cette expérience a été enrichissante et m'a ouvert des perspectives intéressantes pour ma carrière future dans l'analyse de données sportives.
 
