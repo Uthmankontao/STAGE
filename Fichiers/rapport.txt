@@ -31,32 +31,4 @@ Ce graphique représente le terrain de football et trace les tirs effectués par
 Visualisation du Réseau de Passes
 On commence par configurer le terrain, puis on filtre les données pour obtenir les positions des joueurs et les passes effectuées entre eux. Le code trace des lignes entre les positions des joueurs pour représenter les passes, ajoutant des informations sur le nombre de passes et la longueur moyenne de chaque passe au survol des lignes. Le graphique final affiche un titre indiquant qu'il s'agit du réseau de passes sur le terrain de football.
 Visualisation des performances individuelle
-L'algorithme evaluate_performance permet d'évaluer les performances des joueurs de football en fonction de leur position sur le terrain.
-Pour les défenseurs, on calcule :
-    Le nombre de passes faites.
-    La longueur moyenne des passes.
-    Le nombre de duels.
-    Le nombre de duels gagnés.
-    Le nombre de duels perdus.
-    Le nombre d'interceptions réussies.
-
-Pour les milieux de terrain, on calcule :
-    Le nombre de passes faites.
-    La longueur moyenne des passes.
-    Le nombre de passes progressives.
-    Le nombre de dribbles réussis.
-    Le nombre de ballons interceptés avec succès.
-
-Pour les attaquants, on calcule :
-    Le nombre de passes faites.
-    La longueur moyenne des passes.
-    Le nombre de tirs.
-    Le nombre de buts.
-    Le nombre de tirs cadrés.
-    Le nombre de tirs non cadrés.
-    Le nombre de dribbles réussis.
-Si la position ne correspond à aucune des catégories ci-dessus, un tableau vide est retourné.
-Pour afficher les performances des joueurs, on utilise la fonction display_player_performance. Cette fonction filtre les données selon la position et les joueurs choisis, puis transforme les données pour créer un graphique radar. Un tableau interactif et un graphique radar sont ensuite affichés dans une application Dash.
-Conclusion
-Ce stage m'a permis de développer des compétences en analyse de données et en visualisation, tout en appliquant des techniques avancées d'algorithmique pour la détection automatique des événements. J'ai également renforcé mes capacités à lire et interpréter des articles scientifiques pour en tirer des solutions pratiques. Cette expérience a été enrichissante et m'a ouvert des perspectives intéressantes pour ma carrière future dans l'analyse de données sportives.
-
+Le code commence par charger les données des joueurs d'un fichier CSV, puis filtre ces données pour une équipe et une position spécifiques. Ensuite, il normalise les statistiques des joueurs pour les comparer équitablement. Les données normalisées sont préparées pour un graphique radar. Une fonction crée le graphique radar qui montre les performances des joueurs. Une application Dash est configurée pour afficher à la fois un tableau des statistiques et le graphique radar sur une page web. Enfin, l'application web est lancée, permettant aux utilisateurs de voir et de comparer visuellement les performances des joueurs sélectionnés.
